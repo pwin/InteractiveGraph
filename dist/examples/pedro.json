@@ -1,0 +1,48 @@
+{
+    "categories": {
+        "person": "Person",
+        "event": "Event",
+        "location": "Location"
+      },
+      "data": {
+        "nodes": [{
+            "label": "Reading West Chamber",
+            "value": 2,
+            "id": 3779,
+            "categories": [
+              "event"
+            ],
+            "info": "Baoyu went to see the West Chamber under the peach blossoms near Qinfang Bridge, and was preparing to send the falling flowers into the pool. Daiyu said that she had already prepared a flower grave and was coming to bury the flowers. Daiyu found "The West Chamber", Baoyu borrowed the words in the book and confessed to Daiyu. Daiyu felt offended by her dignity, and caused Baoyu to beg for mercy. Daiyu also laughed at Baoyu by borrowing the words of The West Chamber. So they packed up the flowers and buried them in the flower grave."
+          },
+          {
+            "label": "Lin Ruhai Donation Museum Yangzhou City",
+            "value": 4,
+            "id": 3780,
+            "categories": [
+              "event"
+            ],
+            "info": "After exploring the flowers in Lin Ruhai's examination, he moved to the doctor of Lantai Temple and chose Yangzhou to inspect the royal history. Her back became seriously ill and died on the third of September. "
+          },
+          {
+            "label": "Pedro visits Glasgow",
+            "value": 4,
+            "id": 3781,
+            "categories": [
+              "event"
+            ],
+            "info": "Pedro went to Glasgow "
+          }     ],
+          "edges": [{
+              "id": 3776,
+              "label": "lie in",
+              "from": 3779,
+              "to": 3780
+            },
+            {
+              "id": 3777,
+              "label": "stand up",
+              "from": 3779,
+              "to": 3781
+            }  ]
+        }
+      }

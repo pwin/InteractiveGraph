@@ -59,7 +59,35 @@
         <!--image upload box-->
         <div class="imageUploadPanel" igraph-control-role="ImageUploadCtrl"></div>
         <div class="ResultListPanel igraph-dockable igraph-draggable" igraph-control-role="ResultListCtrl" igraph-dock-position="A:10,70"></div>
+         <!--relfinder-->
+         <div class="relfinder-dlg igraph-dockable igraph-draggable" igraph-control-role="RelFinderDialogCtrl" igraph-dock-position="B:-6,45">
+            <div class="line"><span class="fa relfinder-icon fa-flag"></span>
+                <div class="relfinder-searchbox-container">
+                    <input class="igraph-searchbox" type="text" placeholder="input keyword">
+                </div>
+            </div>
+            <div class="line"><span class="fa relfinder-icon fa-flag-checkered"></span>
+                <div class="relfinder-searchbox-container">
+                    <input class="igraph-searchbox" type="text" placeholder="input keyword">
+                </div>
+            </div>
+            <div class="line"><label>maxdepth: </label>
+                <input size="10" autocomplete="off" readonly class="ui-spinner-input relfinder-depth-spinner">
+            </div>
+            <p align="center">
+                <button type="button" class="btn relfinder-btn relfinder-btn-start">find relations</button>
+                <button type="button" class="btn relfinder-btn relfinder-btn-stop" disabled="disabled">stop</button>
+            </p>
+        </div>
+        <!--rel list-->
+        <div class="rellistPanel igraph-dockable igraph-draggable" igraph-control-role="RelListCtrl"
+             igraph-dock-position="B:-6,220">
+            <p class="rellist-title">Relation Paths (<span class="relnum">11</span>):</p>
+            <ul class="rellist"></ul>
+        </div>
+ 
     </div>
+
     <script type="text/javascript">
         igraph.i18n.setLanguage("chs");
         var app = new igraph.GraphNavigator(document.getElementById('graphArea'));

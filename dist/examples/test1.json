@@ -680,81 +680,6 @@
     "DirectedRelation": [
       {
         "from": "1",
-        "to": "5",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "6",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "15",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "18",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "19",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "53",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "58",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "68",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "69",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "72",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "77",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "85",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "86",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "87",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
-        "to": "89",
-        "label": "TopLevel"
-      },
-      {
-        "from": "1",
         "to": "100",
         "label": "is a commitment of"
       },
@@ -857,61 +782,6 @@
         "from": "5",
         "to": "1",
         "label": "is necessary to deliver"
-      },
-      {
-        "from": "6",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "7",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "8",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "9",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "10",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "11",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "12",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "13",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "2",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "14",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "3",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "4",
@@ -1034,11 +904,6 @@
         "label": "is a"
       },
       {
-        "from": "1",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "18",
         "to": "17",
         "label": "part of"
@@ -1052,11 +917,6 @@
         "from": "19",
         "to": "20",
         "label": "are enabled by"
-      },
-      {
-        "from": "20",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1074,19 +934,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "21",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "22",
         "label": "are enabled by"
-      },
-      {
-        "from": "22",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1094,19 +944,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "23",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "24",
         "label": "are enabled by"
-      },
-      {
-        "from": "24",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1114,19 +954,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "25",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "26",
         "label": "are enabled by"
-      },
-      {
-        "from": "26",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1139,19 +969,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "27",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "28",
         "label": "provide support to"
-      },
-      {
-        "from": "28",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1159,19 +979,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "29",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "30",
         "label": "are enabled by"
-      },
-      {
-        "from": "30",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1179,19 +989,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "31",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "32",
         "label": "are enabled by"
-      },
-      {
-        "from": "32",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1204,19 +1004,9 @@
         "label": "are enabled by"
       },
       {
-        "from": "33",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "34",
         "label": "are encouraged to"
-      },
-      {
-        "from": "34",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1224,29 +1014,14 @@
         "label": "are encouraged to"
       },
       {
-        "from": "35",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "36",
         "label": "are supported in"
       },
       {
-        "from": "36",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "37",
         "label": "are supported in"
-      },
-      {
-        "from": "37",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1269,29 +1044,14 @@
         "label": "are supported by"
       },
       {
-        "from": "38",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "39",
         "label": "are supported in"
       },
       {
-        "from": "39",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "40",
         "label": "are supported in"
-      },
-      {
-        "from": "40",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1309,19 +1069,9 @@
         "label": "are supported in"
       },
       {
-        "from": "41",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "42",
         "label": "are supported in"
-      },
-      {
-        "from": "42",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1329,19 +1079,9 @@
         "label": "are supported in"
       },
       {
-        "from": "43",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "44",
         "label": "are supported by"
-      },
-      {
-        "from": "44",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1349,19 +1089,9 @@
         "label": "are supported in"
       },
       {
-        "from": "45",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "46",
         "label": "are supported by"
-      },
-      {
-        "from": "46",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1369,19 +1099,9 @@
         "label": "are supported in"
       },
       {
-        "from": "47",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "48",
         "label": "are supported in"
-      },
-      {
-        "from": "48",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1389,19 +1109,9 @@
         "label": "are supported in"
       },
       {
-        "from": "49",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "50",
         "label": "are supported in"
-      },
-      {
-        "from": "50",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "19",
@@ -1434,19 +1144,9 @@
         "label": "are supported in"
       },
       {
-        "from": "51",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "19",
         "to": "52",
         "label": "are supported by"
-      },
-      {
-        "from": "52",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "53",
@@ -1457,11 +1157,6 @@
         "from": "53",
         "to": "54",
         "label": "include"
-      },
-      {
-        "from": "54",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "53",
@@ -1479,19 +1174,9 @@
         "label": "include"
       },
       {
-        "from": "55",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "53",
         "to": "56",
         "label": "include"
-      },
-      {
-        "from": "56",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "53",
@@ -1499,19 +1184,9 @@
         "label": "include"
       },
       {
-        "from": "57",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "58",
         "to": "59",
         "label": "supported by"
-      },
-      {
-        "from": "59",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "58",
@@ -1519,19 +1194,9 @@
         "label": "supported by"
       },
       {
-        "from": "60",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "58",
         "to": "61",
         "label": "supported by"
-      },
-      {
-        "from": "61",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "58",
@@ -1544,11 +1209,6 @@
         "label": "supported by"
       },
       {
-        "from": "62",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "58",
         "to": "120",
         "label": "supported by"
@@ -1557,11 +1217,6 @@
         "from": "58",
         "to": "63",
         "label": "supported by"
-      },
-      {
-        "from": "63",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "63",
@@ -1624,29 +1279,14 @@
         "label": "supported by"
       },
       {
-        "from": "64",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "58",
         "to": "65",
         "label": "supported by"
       },
       {
-        "from": "65",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "58",
         "to": "66",
         "label": "supported by"
-      },
-      {
-        "from": "66",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "58",
@@ -1669,11 +1309,6 @@
         "label": "supported by"
       },
       {
-        "from": "67",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "68",
         "to": "",
         "label": "supported by"
@@ -1682,11 +1317,6 @@
         "from": "68",
         "to": "136",
         "label": "supported by"
-      },
-      {
-        "from": "69",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "70",
@@ -1714,29 +1344,14 @@
         "label": "supported by"
       },
       {
-        "from": "64",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "20",
         "to": "65",
         "label": "supported by"
       },
       {
-        "from": "65",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "20",
         "to": "66",
         "label": "supported by"
-      },
-      {
-        "from": "66",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "20",
@@ -1759,19 +1374,9 @@
         "label": "supported by"
       },
       {
-        "from": "67",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
         "from": "68",
         "to": "71",
         "label": "supported by"
-      },
-      {
-        "from": "71",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "70",
@@ -2427,16 +2032,6 @@
         "from": "15",
         "to": "4",
         "label": "Is not"
-      },
-      {
-        "from": "88",
-        "to": "",
-        "label": "Spotlight"
-      },
-      {
-        "from": "88",
-        "to": "",
-        "label": "Spotlight"
       },
       {
         "from": "88",

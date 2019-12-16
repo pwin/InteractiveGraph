@@ -2,13 +2,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>GraphNavigator</title>
-    <script type="text/javascript" src="./js/interactive-graph.min.js"></script>
-    <link type="text/css" rel="stylesheet" href="./css/interactive-graph.min.css">
-    <script src="./lib/jquery-3.2.1/jquery-3.2.1.min.js"></script>
-    <link rel="stylesheet" href="./lib/jquery-3.2.1/jquery-ui.css">
-    <script src="./lib/jquery-3.2.1/jquery-ui.js"></script>
-    <link href="./lib/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <title>GraphNavigatorindex Page</title>
     <style type="text/css">
         body {
             margin: 0px;
@@ -24,96 +18,11 @@
 </head>
 
 <body>
-    <div style="height:100%">
-        <div id="graphArea"></div>
-    </div>
-    <!--all UI controls-->
-    <div>
-        <!--toolbar-->
-        <div class="toolbarPanel igraph-dockable igraph-draggable" igraph-control-role="ToolbarCtrl"
-            igraph-dock-position="B:-6,0">
-            <div class="toolbar"></div>
-        </div>
-        <!--info box-->
-        <div class="infoPanel igraph-dockable igraph-draggable" igraph-control-role="InfoBoxCtrl" igraph-dock-position="A:10,200">
-            <div>
-                <div class="infoPanel1"></div>
-                <div class="infoPanel2"><span align="center" class="fa fa-close fa-lg btnCloseInfoPanel"></span></div>
-            </div>
-            <div class="infoBox"></div>
-        </div>
-        <!--search box
-        <div class="searchPanel igraph-dockable igraph-draggable" igraph-control-role="SearchBoxCtrl"
-            igraph-dock-position="A:10,20">
-            <div class="searchPanel1">
-                <input class="igraph-searchbox" type="text" size="16" placeholder="input keyword">
-            </div>
-            <div class="searchPanel2 igraph-searchbox-image">
-                <span align="center" class="fa fa-photo fa-lg" />
-            </div>
-        </div>
-        -->
-        <!--status bar
-        <div class="statusPanel igraph-dockable" igraph-control-role="StatusBarCtrl" igraph-dock-position="C:-100,0">
-            <div class="statusBar"></div>
-        </div>
-        -->
-        <!--image upload box
-        <div class="imageUploadPanel" igraph-control-role="ImageUploadCtrl"></div>
-        <div class="ResultListPanel igraph-dockable igraph-draggable" igraph-control-role="ResultListCtrl" igraph-dock-position="A:10,70"></div>
-        -->
-        <!--relfinder-->
-         <div class="relfinder-dlg igraph-dockable igraph-draggable" igraph-control-role="RelFinderDialogCtrl" igraph-dock-position="B:-6,45">
-            <div class="line"><span class="fa relfinder-icon fa-flag"></span>
-                <div class="relfinder-searchbox-container">
-                    <input class="igraph-searchbox" type="text" placeholder="input keyword">
-                </div>
-            </div>
-            <div class="line"><span class="fa relfinder-icon fa-flag-checkered"></span>
-                <div class="relfinder-searchbox-container">
-                    <input class="igraph-searchbox" type="text" placeholder="input keyword">
-                </div>
-            </div>
-            <div class="line"><label>maxdepth: </label>
-                <input size="10" autocomplete="off" readonly class="ui-spinner-input relfinder-depth-spinner">
-            </div>
-            <p align="center">
-                <button type="button" class="btn relfinder-btn relfinder-btn-start">find relations</button>
-                <button type="button" class="btn relfinder-btn relfinder-btn-stop" disabled="disabled">stop</button>
-            </p>
-        </div>
-        <!--rel list-->
-        <div class="rellistPanel igraph-dockable igraph-draggable" igraph-control-role="RelListCtrl"
-             igraph-dock-position="B:-6,220">
-            <p class="rellist-title">Relation Paths (<span class="relnum">11</span>):</p>
-            <ul class="rellist"></ul>
-        </div>
- 
-    </div>
-
-    <script type="text/javascript">
-        igraph.i18n.setLanguage("chs");
-        var app = new igraph.GraphNavigator(document.getElementById('graphArea'));
-        app.loadGson("./json/WorldCup2014.json", {
-            "onGetNodeDescription": function (node) {
-                var description = "<p align=center>";
-                if (node.image !== undefined) {
-                    description += "<img src='" + node.image + "' width=150/><br>";
-                }
-                description += "<b>" + node.label + "</b>" + "[" + node.id + "]";
-                description += "</p>";
-                if (node.info !== undefined) {
-                    description += "<p align=left>" + node.info + "</p>";
-                } else {
-                    if (node.title !== undefined)
-                        description += "<p align=left>" + node.title + "</p>";
-                }
-
-                return description;
-            }
-        }, function () {});
-        
-    </script>
+<div>
+    <ul>
+        <li> <a href="./example1.html" target="_ex1">Example 1</a></li>
+        <li> <a href="./example3.html" target="_ex3">Example 3</a></li>
+    </ul>
 </body>
 
 </html>

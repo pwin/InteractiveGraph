@@ -676,1373 +676,1371 @@
       }
     ]
   },
-  "edges": {
-    "DirectedRelation": [
-      {
-        "from": "1",
-        "to": "100",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "7",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "8",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "9",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "10",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "11",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "12",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "13",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "14",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "is a commitment of"
-      },
-      {
-        "from": "1",
-        "to": "91",
-        "label": "is necessary to deliver"
-      },
-      {
-        "from": "2",
-        "to": "13",
-        "label": "is a key part of"
-      },
-      {
-        "from": "3",
-        "to": "7",
-        "label": "has common elements with"
-      },
-      {
-        "from": "1",
-        "to": "92",
-        "label": "is a"
-      },
-      {
-        "from": "1",
-        "to": "93",
-        "label": "is helpful to deliver"
-      },
-      {
-        "from": "1",
-        "to": "94",
-        "label": "has common elements with"
-      },
-      {
-        "from": "4",
-        "to": "14",
-        "label": "part of"
-      },
-      {
-        "from": "1",
-        "to": "95",
-        "label": "requires"
-      },
-      {
-        "from": "5",
-        "to": "96",
-        "label": "acronym"
-      },
-      {
-        "from": "5",
-        "to": "1",
-        "label": "is necessary to deliver"
-      },
-      {
-        "from": "4",
-        "to": "10",
-        "label": "is necessary to deliver"
-      },
-      {
-        "from": "15",
-        "to": "10",
-        "label": "is necessary to deliver"
-      },
-      {
-        "from": "4",
-        "to": "97",
-        "label": "is a key part of"
-      },
-      {
-        "from": "1",
-        "to": "98",
-        "label": "requires"
-      },
-      {
-        "from": "1",
-        "to": "99",
-        "label": "requires"
-      },
-      {
-        "from": "1",
-        "to": "16",
-        "label": "requires"
-      },
-      {
-        "from": "16",
-        "to": "7",
-        "label": "requires"
-      },
-      {
-        "from": "16",
-        "to": "99",
-        "label": "requires"
-      },
-      {
-        "from": "16",
-        "to": "100",
-        "label": "requires"
-      },
-      {
-        "from": "16",
-        "to": "2",
-        "label": "requires"
-      },
-      {
-        "from": "17",
-        "to": "1",
-        "label": "is helpful to deliver"
-      },
-      {
-        "from": "17",
-        "to": "11",
-        "label": "is a key part of"
-      },
-      {
-        "from": "17",
-        "to": "10",
-        "label": "is a key part of"
-      },
-      {
-        "from": "6",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "7",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "8",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "9",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "10",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "11",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "12",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "13",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "2",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "14",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "3",
-        "to": "101",
-        "label": "is a"
-      },
-      {
-        "from": "18",
-        "to": "17",
-        "label": "part of"
-      },
-      {
-        "from": "18",
-        "to": "14",
-        "label": "part of"
-      },
-      {
-        "from": "19",
-        "to": "20",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "102",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "70",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "21",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "22",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "23",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "24",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "25",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "26",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "103",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "27",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "28",
-        "label": "provide support to"
-      },
-      {
-        "from": "19",
-        "to": "29",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "30",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "31",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "32",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "104",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "33",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "34",
-        "label": "are encouraged to"
-      },
-      {
-        "from": "19",
-        "to": "35",
-        "label": "are encouraged to"
-      },
-      {
-        "from": "19",
-        "to": "36",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "37",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "105",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "106",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "107",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "38",
-        "label": "are supported by"
-      },
-      {
-        "from": "19",
-        "to": "39",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "40",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "108",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "109",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "41",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "42",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "43",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "44",
-        "label": "are supported by"
-      },
-      {
-        "from": "19",
-        "to": "45",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "46",
-        "label": "are supported by"
-      },
-      {
-        "from": "19",
-        "to": "47",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "48",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "49",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "50",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "110",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "111",
-        "label": "are enabled by"
-      },
-      {
-        "from": "19",
-        "to": "112",
-        "label": "are supported by"
-      },
-      {
-        "from": "19",
-        "to": "113",
-        "label": "are supported by"
-      },
-      {
-        "from": "19",
-        "to": "114",
-        "label": "are supported by"
-      },
-      {
-        "from": "19",
-        "to": "51",
-        "label": "are supported in"
-      },
-      {
-        "from": "19",
-        "to": "52",
-        "label": "are supported by"
-      },
-      {
-        "from": "53",
-        "to": "115",
-        "label": "include"
-      },
-      {
-        "from": "53",
-        "to": "54",
-        "label": "include"
-      },
-      {
-        "from": "53",
-        "to": "116",
-        "label": "include"
-      },
-      {
-        "from": "53",
-        "to": "117",
-        "label": "include"
-      },
-      {
-        "from": "53",
-        "to": "118",
-        "label": "include"
-      },
-      {
-        "from": "53",
-        "to": "56",
-        "label": "include"
-      },
-      {
-        "from": "53",
-        "to": "57",
-        "label": "include"
-      },
-      {
-        "from": "58",
-        "to": "59",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "60",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "61",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "119",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "62",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "120",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "63",
-        "label": "supported by"
-      },
-      {
-        "from": "63",
-        "to": "121",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "122",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "123",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "124",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "125",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "126",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "127",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "128",
-        "label": "function via"
-      },
-      {
-        "from": "63",
-        "to": "129",
-        "label": "function via"
-      },
-      {
-        "from": "58",
-        "to": "130",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "131",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "64",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "65",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "66",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "132",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "133",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "134",
-        "label": "supported by"
-      },
-      {
-        "from": "58",
-        "to": "67",
-        "label": "supported by"
-      },
-      {
-        "from": "68",
-        "to": "",
-        "label": "supported by"
-      },
-      {
-        "from": "68",
-        "to": "136",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "137",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "138",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "139",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "140",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "141",
-        "label": "supported by"
-      },
-      {
-        "from": "20",
-        "to": "65",
-        "label": "supported by"
-      },
-      {
-        "from": "20",
-        "to": "66",
-        "label": "supported by"
-      },
-      {
-        "from": "20",
-        "to": "132",
-        "label": "supported by"
-      },
-      {
-        "from": "20",
-        "to": "133",
-        "label": "supported by"
-      },
-      {
-        "from": "20",
-        "to": "134",
-        "label": "supported by"
-      },
-      {
-        "from": "20",
-        "to": "67",
-        "label": "supported by"
-      },
-      {
-        "from": "68",
-        "to": "71",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "142",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "143",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "144",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "145",
-        "label": "supported by"
-      },
-      {
-        "from": "70",
-        "to": "146",
-        "label": "supported by"
-      },
-      {
-        "from": "72",
-        "to": "73",
-        "label": "driven by"
-      },
-      {
-        "from": "72",
-        "to": "74",
-        "label": "driven by"
-      },
-      {
-        "from": "72",
-        "to": "75",
-        "label": "driven by"
-      },
-      {
-        "from": "72",
-        "to": "76",
-        "label": "driven by"
-      },
-      {
-        "from": "73",
-        "to": "147",
-        "label": "driven by"
-      },
-      {
-        "from": "73",
-        "to": "148",
-        "label": "driven by"
-      },
-      {
-        "from": "73",
-        "to": "149",
-        "label": "driven by"
-      },
-      {
-        "from": "73",
-        "to": "150",
-        "label": "driven by"
-      },
-      {
-        "from": "73",
-        "to": "151",
-        "label": "driven by"
-      },
-      {
-        "from": "73",
-        "to": "152",
-        "label": "driven by"
-      },
-      {
-        "from": "74",
-        "to": "153",
-        "label": "driven by"
-      },
-      {
-        "from": "74",
-        "to": "154",
-        "label": "driven by"
-      },
-      {
-        "from": "74",
-        "to": "155",
-        "label": "driven by"
-      },
-      {
-        "from": "74",
-        "to": "156",
-        "label": "driven by"
-      },
-      {
-        "from": "75",
-        "to": "157",
-        "label": "driven by"
-      },
-      {
-        "from": "75",
-        "to": "158",
-        "label": "driven by"
-      },
-      {
-        "from": "75",
-        "to": "159",
-        "label": "driven by"
-      },
-      {
-        "from": "76",
-        "to": "160",
-        "label": "driven by"
-      },
-      {
-        "from": "76",
-        "to": "161",
-        "label": "driven by"
-      },
-      {
-        "from": "76",
-        "to": "162",
-        "label": "driven by"
-      },
-      {
-        "from": "76",
-        "to": "163",
-        "label": "driven by"
-      },
-      {
-        "from": "77",
-        "to": "78",
-        "label": "drives"
-      },
-      {
-        "from": "78",
-        "to": "79",
-        "label": "drives"
-      },
-      {
-        "from": "79",
-        "to": "80",
-        "label": "drives"
-      },
-      {
-        "from": "80",
-        "to": "81",
-        "label": "drives"
-      },
-      {
-        "from": "80",
-        "to": "82",
-        "label": "drives"
-      },
-      {
-        "from": "80",
-        "to": "83",
-        "label": "drives"
-      },
-      {
-        "from": "81",
-        "to": "84",
-        "label": "drives"
-      },
-      {
-        "from": "82",
-        "to": "84",
-        "label": "drives"
-      },
-      {
-        "from": "83",
-        "to": "84",
-        "label": "drives"
-      },
-      {
-        "from": "84",
-        "to": "164",
-        "label": "drives"
-      },
-      {
-        "from": "85",
-        "to": "20",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "102",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "70",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "21",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "22",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "23",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "24",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "25",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "26",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "103",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "27",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "29",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "30",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "31",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "32",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "104",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "33",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "110",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "111",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "34",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "35",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "38",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "44",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "46",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "112",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "113",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "114",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "52",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "36",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "37",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "105",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "106",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "107",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "39",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "40",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "108",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "109",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "41",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "42",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "43",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "45",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "47",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "48",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "49",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "50",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "51",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "121",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "122",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "123",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "124",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "125",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "126",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "127",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "128",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "129",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "115",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "54",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "116",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "117",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "55",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "56",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "57",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "28",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "59",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "60",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "61",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "119",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "62",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "120",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "63",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "130",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "131",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "64",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "65",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "66",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "132",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "133",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "134",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "67",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "165",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "137",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "138",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "139",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "140",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "141",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "71",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "142",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "143",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "144",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "145",
-        "label": "has workstream"
-      },
-      {
-        "from": "85",
-        "to": "146",
-        "label": "has workstream"
-      },
-      {
-        "from": "86",
-        "to": "166",
-        "label": "(has) Strong similarity (to)"
-      },
-      {
-        "from": "87",
-        "to": "27",
-        "label": "Is (a) key part (of)"
-      },
-      {
-        "from": "15",
-        "to": "4",
-        "label": "Is not"
-      },
-      {
-        "from": "88",
-        "to": "167",
-        "label": "Has RAG Status"
-      },
-      {
-        "from": "89",
-        "to": "88",
-        "label": "Is (a) key part (of)"
-      }
-    ]
-  }
+  "edges": [
+    {
+      "from": "1",
+      "to": "100",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "7",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "8",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "9",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "10",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "11",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "12",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "13",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "14",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "label": "is a commitment of"
+    },
+    {
+      "from": "1",
+      "to": "91",
+      "label": "is necessary to deliver"
+    },
+    {
+      "from": "2",
+      "to": "13",
+      "label": "is a key part of"
+    },
+    {
+      "from": "3",
+      "to": "7",
+      "label": "has common elements with"
+    },
+    {
+      "from": "1",
+      "to": "92",
+      "label": "is a"
+    },
+    {
+      "from": "1",
+      "to": "93",
+      "label": "is helpful to deliver"
+    },
+    {
+      "from": "1",
+      "to": "94",
+      "label": "has common elements with"
+    },
+    {
+      "from": "4",
+      "to": "14",
+      "label": "part of"
+    },
+    {
+      "from": "1",
+      "to": "95",
+      "label": "requires"
+    },
+    {
+      "from": "5",
+      "to": "96",
+      "label": "acronym"
+    },
+    {
+      "from": "5",
+      "to": "1",
+      "label": "is necessary to deliver"
+    },
+    {
+      "from": "4",
+      "to": "10",
+      "label": "is necessary to deliver"
+    },
+    {
+      "from": "15",
+      "to": "10",
+      "label": "is necessary to deliver"
+    },
+    {
+      "from": "4",
+      "to": "97",
+      "label": "is a key part of"
+    },
+    {
+      "from": "1",
+      "to": "98",
+      "label": "requires"
+    },
+    {
+      "from": "1",
+      "to": "99",
+      "label": "requires"
+    },
+    {
+      "from": "1",
+      "to": "16",
+      "label": "requires"
+    },
+    {
+      "from": "16",
+      "to": "7",
+      "label": "requires"
+    },
+    {
+      "from": "16",
+      "to": "99",
+      "label": "requires"
+    },
+    {
+      "from": "16",
+      "to": "100",
+      "label": "requires"
+    },
+    {
+      "from": "16",
+      "to": "2",
+      "label": "requires"
+    },
+    {
+      "from": "17",
+      "to": "1",
+      "label": "is helpful to deliver"
+    },
+    {
+      "from": "17",
+      "to": "11",
+      "label": "is a key part of"
+    },
+    {
+      "from": "17",
+      "to": "10",
+      "label": "is a key part of"
+    },
+    {
+      "from": "6",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "7",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "8",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "9",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "10",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "11",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "12",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "13",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "2",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "14",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "3",
+      "to": "101",
+      "label": "is a"
+    },
+    {
+      "from": "18",
+      "to": "17",
+      "label": "part of"
+    },
+    {
+      "from": "18",
+      "to": "14",
+      "label": "part of"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "102",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "70",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "21",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "22",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "23",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "24",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "25",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "26",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "103",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "27",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "28",
+      "label": "provide support to"
+    },
+    {
+      "from": "19",
+      "to": "29",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "30",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "31",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "32",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "104",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "33",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "34",
+      "label": "are encouraged to"
+    },
+    {
+      "from": "19",
+      "to": "35",
+      "label": "are encouraged to"
+    },
+    {
+      "from": "19",
+      "to": "36",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "37",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "105",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "106",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "107",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "38",
+      "label": "are supported by"
+    },
+    {
+      "from": "19",
+      "to": "39",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "40",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "108",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "109",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "41",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "42",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "43",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "44",
+      "label": "are supported by"
+    },
+    {
+      "from": "19",
+      "to": "45",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "46",
+      "label": "are supported by"
+    },
+    {
+      "from": "19",
+      "to": "47",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "48",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "49",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "50",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "110",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "111",
+      "label": "are enabled by"
+    },
+    {
+      "from": "19",
+      "to": "112",
+      "label": "are supported by"
+    },
+    {
+      "from": "19",
+      "to": "113",
+      "label": "are supported by"
+    },
+    {
+      "from": "19",
+      "to": "114",
+      "label": "are supported by"
+    },
+    {
+      "from": "19",
+      "to": "51",
+      "label": "are supported in"
+    },
+    {
+      "from": "19",
+      "to": "52",
+      "label": "are supported by"
+    },
+    {
+      "from": "53",
+      "to": "115",
+      "label": "include"
+    },
+    {
+      "from": "53",
+      "to": "54",
+      "label": "include"
+    },
+    {
+      "from": "53",
+      "to": "116",
+      "label": "include"
+    },
+    {
+      "from": "53",
+      "to": "117",
+      "label": "include"
+    },
+    {
+      "from": "53",
+      "to": "118",
+      "label": "include"
+    },
+    {
+      "from": "53",
+      "to": "56",
+      "label": "include"
+    },
+    {
+      "from": "53",
+      "to": "57",
+      "label": "include"
+    },
+    {
+      "from": "58",
+      "to": "59",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "60",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "61",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "119",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "62",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "120",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "63",
+      "label": "supported by"
+    },
+    {
+      "from": "63",
+      "to": "121",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "122",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "123",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "124",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "125",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "126",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "127",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "128",
+      "label": "function via"
+    },
+    {
+      "from": "63",
+      "to": "129",
+      "label": "function via"
+    },
+    {
+      "from": "58",
+      "to": "130",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "131",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "64",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "65",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "66",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "132",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "133",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "134",
+      "label": "supported by"
+    },
+    {
+      "from": "58",
+      "to": "67",
+      "label": "supported by"
+    },
+    {
+      "from": "68",
+      "to": "",
+      "label": "supported by"
+    },
+    {
+      "from": "68",
+      "to": "136",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "137",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "138",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "139",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "140",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "141",
+      "label": "supported by"
+    },
+    {
+      "from": "20",
+      "to": "65",
+      "label": "supported by"
+    },
+    {
+      "from": "20",
+      "to": "66",
+      "label": "supported by"
+    },
+    {
+      "from": "20",
+      "to": "132",
+      "label": "supported by"
+    },
+    {
+      "from": "20",
+      "to": "133",
+      "label": "supported by"
+    },
+    {
+      "from": "20",
+      "to": "134",
+      "label": "supported by"
+    },
+    {
+      "from": "20",
+      "to": "67",
+      "label": "supported by"
+    },
+    {
+      "from": "68",
+      "to": "71",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "142",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "143",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "144",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "145",
+      "label": "supported by"
+    },
+    {
+      "from": "70",
+      "to": "146",
+      "label": "supported by"
+    },
+    {
+      "from": "72",
+      "to": "73",
+      "label": "driven by"
+    },
+    {
+      "from": "72",
+      "to": "74",
+      "label": "driven by"
+    },
+    {
+      "from": "72",
+      "to": "75",
+      "label": "driven by"
+    },
+    {
+      "from": "72",
+      "to": "76",
+      "label": "driven by"
+    },
+    {
+      "from": "73",
+      "to": "147",
+      "label": "driven by"
+    },
+    {
+      "from": "73",
+      "to": "148",
+      "label": "driven by"
+    },
+    {
+      "from": "73",
+      "to": "149",
+      "label": "driven by"
+    },
+    {
+      "from": "73",
+      "to": "150",
+      "label": "driven by"
+    },
+    {
+      "from": "73",
+      "to": "151",
+      "label": "driven by"
+    },
+    {
+      "from": "73",
+      "to": "152",
+      "label": "driven by"
+    },
+    {
+      "from": "74",
+      "to": "153",
+      "label": "driven by"
+    },
+    {
+      "from": "74",
+      "to": "154",
+      "label": "driven by"
+    },
+    {
+      "from": "74",
+      "to": "155",
+      "label": "driven by"
+    },
+    {
+      "from": "74",
+      "to": "156",
+      "label": "driven by"
+    },
+    {
+      "from": "75",
+      "to": "157",
+      "label": "driven by"
+    },
+    {
+      "from": "75",
+      "to": "158",
+      "label": "driven by"
+    },
+    {
+      "from": "75",
+      "to": "159",
+      "label": "driven by"
+    },
+    {
+      "from": "76",
+      "to": "160",
+      "label": "driven by"
+    },
+    {
+      "from": "76",
+      "to": "161",
+      "label": "driven by"
+    },
+    {
+      "from": "76",
+      "to": "162",
+      "label": "driven by"
+    },
+    {
+      "from": "76",
+      "to": "163",
+      "label": "driven by"
+    },
+    {
+      "from": "77",
+      "to": "78",
+      "label": "drives"
+    },
+    {
+      "from": "78",
+      "to": "79",
+      "label": "drives"
+    },
+    {
+      "from": "79",
+      "to": "80",
+      "label": "drives"
+    },
+    {
+      "from": "80",
+      "to": "81",
+      "label": "drives"
+    },
+    {
+      "from": "80",
+      "to": "82",
+      "label": "drives"
+    },
+    {
+      "from": "80",
+      "to": "83",
+      "label": "drives"
+    },
+    {
+      "from": "81",
+      "to": "84",
+      "label": "drives"
+    },
+    {
+      "from": "82",
+      "to": "84",
+      "label": "drives"
+    },
+    {
+      "from": "83",
+      "to": "84",
+      "label": "drives"
+    },
+    {
+      "from": "84",
+      "to": "164",
+      "label": "drives"
+    },
+    {
+      "from": "85",
+      "to": "20",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "102",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "70",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "21",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "22",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "23",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "24",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "25",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "26",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "103",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "27",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "29",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "30",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "31",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "32",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "104",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "33",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "110",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "111",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "34",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "35",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "38",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "44",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "46",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "112",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "113",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "114",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "52",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "36",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "37",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "105",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "106",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "107",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "39",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "40",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "108",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "109",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "41",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "42",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "43",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "45",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "47",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "48",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "49",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "50",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "51",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "121",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "122",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "123",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "124",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "125",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "126",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "127",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "128",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "129",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "115",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "54",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "116",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "117",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "55",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "56",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "57",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "28",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "59",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "60",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "61",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "119",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "62",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "120",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "63",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "130",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "131",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "64",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "65",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "66",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "132",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "133",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "134",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "67",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "165",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "137",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "138",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "139",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "140",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "141",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "71",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "142",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "143",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "144",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "145",
+      "label": "has workstream"
+    },
+    {
+      "from": "85",
+      "to": "146",
+      "label": "has workstream"
+    },
+    {
+      "from": "86",
+      "to": "166",
+      "label": "(has) Strong similarity (to)"
+    },
+    {
+      "from": "87",
+      "to": "27",
+      "label": "Is (a) key part (of)"
+    },
+    {
+      "from": "15",
+      "to": "4",
+      "label": "Is not"
+    },
+    {
+      "from": "88",
+      "to": "167",
+      "label": "Has RAG Status"
+    },
+    {
+      "from": "89",
+      "to": "88",
+      "label": "Is (a) key part (of)"
+    }
+  ]
 }

@@ -671,11 +671,7 @@
     ]
 ,
 
-  "categories": [{
-    "person": "person",
-    "event": "event",
-    "location": "location"
-  }],
+  "categories": ["person","event","location"],
   "edges": [
     {
       "from": "1",

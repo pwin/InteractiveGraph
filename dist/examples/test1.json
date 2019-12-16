@@ -1,0 +1,3054 @@
+{
+  "categories": {
+    "person": "person",
+    "event": "event",
+    "location": "location"
+  },
+  "data": {
+    "Comment": [
+      {
+        "id": "TopNode",
+        "name": "Top Node",
+        "dataURL": "",
+        "#text": "The Top Node links nodes that lack a parent."
+      },
+      {
+        "dataURL": "",
+        "id": "_1.HIS + HSCP, ident + coord",
+        "name": "_1.HIS + HSCP, ident + coord",
+        "#text": "Support Healthcare Improvement Scotland in providing Health and Social Care Partnerships with expertise on testing and implementing improvements in the identification and care co-ordination of those who can benefit from palliative and end of life care."
+      },
+      {
+        "dataURL": "",
+        "id": "_2. strategic commissioning",
+        "name": "_2. strategic commissioning",
+        "#text": "Provide strategic commissioning guidance on palliative and end of life care to Health and Social Care Partnerships."
+      },
+      {
+        "dataURL": "",
+        "id": "_3. educational framework",
+        "name": "_3. educational framework",
+        "#text": "Support the development of a new palliative and end of life care educational framework."
+      },
+      {
+        "dataURL": "",
+        "id": "_4. care for 0-25yos",
+        "name": "_4. care for 0-25yos",
+        "#text": "Support and promote the further development of holistic palliative care for the 0-25 years age group."
+      },
+      {
+        "dataURL": "",
+        "id": "_5. research forum",
+        "name": "_5. research forum",
+        "#text": "Support the establishment of the Scottish Research Forum for Palliative and End of Life Care."
+      },
+      {
+        "dataURL": "",
+        "id": "_6. culture change",
+        "name": "_6. culture change",
+        "#text": "Support greater public and personal discussion of bereavement, death, dying and care at the end of life, partly through commissioning work to facilitate this."
+      },
+      {
+        "dataURL": "",
+        "id": "_7. electronic care planning",
+        "name": "_7. electronic care planning",
+        "#text": "Seek to ensure that future requirements of e-Health systems support the effective sharing of individual end of life and Anticipatory Care Planning conversations."
+      },
+      {
+        "dataURL": "",
+        "id": "_8. economic and effectivness evaluations",
+        "name": "_8. economic and effectivness evaluations",
+        "#text": "Support clinical and health economic evaluations of palliative and end of life care models."
+      },
+      {
+        "dataURL": "",
+        "id": "_9. data",
+        "name": "_9. data",
+        "#text": "Support improvements in the collection, analysis, interpretation and dissemination of data and evidence relating to needs, provision, activity, indicators and outcomes in respect of palliative and end of life care."
+      },
+      {
+        "dataURL": "",
+        "id": "_10. NIAG",
+        "name": "_10. NIAG",
+        "#text": "Establish a new National Implementation Support Group to support the implementation of improvement actions."
+      },
+      {
+        "dataURL": "",
+        "id": "_11. funding review",
+        "name": "_11. funding review",
+        "#text": "Review hospice funding, in particular the differing levels for adult and children's hospices"
+      },
+      {
+        "dataURL": "",
+        "id": "SFA PEOLC",
+        "name": "SFA PEOLC",
+        "#text": "Within the Scottish Government team we are endeavouring to use the principles of the semantically enabled web to ensure that work on the strategic framework for action of palliative and end of life care links up with work on-going elsewhere and with other government programs."
+      },
+      {
+        "dataURL": "",
+        "id": "quantitative and qualitative data",
+        "name": "quantitative and qualitative data",
+        "#text": "availability of meaningful quantitative and qualitative data including comparative data"
+      },
+      {
+        "dataURL": "",
+        "id": "effective data use",
+        "name": "effective data use",
+        "#text": "developing capacity and capability for effective analysis, interpretation and application of data"
+      },
+      {
+        "dataURL": "",
+        "id": "outputs - evidence informed",
+        "name": "outputs - evidence informed",
+        "#text": "developing evidence informed outputs to support service provision and redesign"
+      },
+      {
+        "dataURL": "",
+        "id": "knowledge exchange",
+        "name": "knowledge exchange",
+        "#text": "knowledge exchange of what works to inform policy and practice"
+      },
+      {
+        "dataURL": "",
+        "id": "research+monitoring+evaluation processes",
+        "name": "research+monitoring+evaluation processes",
+        "#text": "developing robust research and monitoring and evaluation to improve understanding of interventions which work in particular circumstances"
+      },
+      {
+        "dataURL": "",
+        "id": "national workforce contracts",
+        "name": "national workforce contracts",
+        "#text": "ensuring national workforce contracts support the needs of integrated health and social care services"
+      },
+      {
+        "dataURL": "",
+        "id": "pre-registration training",
+        "name": "pre-registration training",
+        "#text": "ensuring pre-registration training supports the development of professionals skilled to work across integrated services"
+      },
+      {
+        "dataURL": "",
+        "id": "training development programmes+resources",
+        "name": "training development programmes+resources",
+        "#text": "ensure training and development programmes and resources in place which support a workforce with the knowledge and skills to deliver the 2020 vision and the Vision and Strategy for Social Services"
+      },
+      {
+        "dataURL": "",
+        "id": "health+social care workers",
+        "name": "health+social care workers",
+        "#text": "support to enable all those working in health and social care services whether as managers or frontline practitioners to embrace outcomes-focused practice"
+      },
+      {
+        "dataURL": "",
+        "id": "national workforce data",
+        "name": "national workforce data",
+        "#text": "provides meaningful national workforce data that supports the work of redesign"
+      },
+      {
+        "dataURL": "",
+        "id": "local level workforce planning",
+        "name": "local level workforce planning",
+        "#text": "support HSCP to undertake workforce planning at a local level, developing a whole system approach"
+      },
+      {
+        "dataURL": "",
+        "id": "professional regulation",
+        "name": "professional regulation",
+        "#text": "ensure professional regulation is enacted in a way that is supportive of the delivery of integrated services, but maintains public assurance and rigour"
+      },
+      {
+        "dataURL": "",
+        "id": "multidisciplinary working models",
+        "name": "multidisciplinary working models",
+        "#text": "support the testing of new models of multidisciplinary working and ensure learning captured and spread across different settings"
+      },
+      {
+        "dataURL": "",
+        "id": "knowledge+skills+confidence",
+        "name": "knowledge+skills+confidence",
+        "#text": "development of knowledge, skills and confidence to effectively lead and implement transformational redesign"
+      },
+      {
+        "dataURL": "",
+        "id": "consult citizens",
+        "name": "consult citizens",
+        "#text": "consultation with citizens in the design and delivery of services"
+      },
+      {
+        "dataURL": "",
+        "id": "consult on service provision design",
+        "name": "consult on service provision design",
+        "#text": "work with GP clusters, TSIs and other bodies to inform the design of service provision"
+      },
+      {
+        "dataURL": "",
+        "id": "knowledge+skills development",
+        "name": "knowledge+skills development",
+        "#text": "development of the knowledge and skills to effectively lead the work of improvement and large scale change"
+      },
+      {
+        "dataURL": "",
+        "id": "self-evaluation",
+        "name": "self-evaluation",
+        "#text": "self-evaluation of their performance and key development priorities"
+      },
+      {
+        "dataURL": "",
+        "id": "community engagement",
+        "name": "community engagement",
+        "#text": "encouraging individuals receiving care, their families and wider communities to engage in the work of improvement"
+      },
+      {
+        "dataURL": "",
+        "id": "long-term plans+approaches development",
+        "name": "long-term plans+approaches development",
+        "#text": "long-term plans and approaches designed to deliver new, transformational, models of care and support"
+      },
+      {
+        "dataURL": "",
+        "id": "new ways of working",
+        "name": "new ways of working",
+        "#text": "ensure that evidence-based new ways of working are implemented in their areas"
+      },
+      {
+        "dataURL": "",
+        "id": "coaching support provision",
+        "name": "coaching support provision",
+        "#text": "coaching support to enable effective leadership of change and effective leadership of integrated services"
+      },
+      {
+        "dataURL": "",
+        "id": "national networks facilitation",
+        "name": "national networks facilitation",
+        "#text": "national networks to enable learning to be quickly transferred across the system"
+      },
+      {
+        "dataURL": "",
+        "id": "guidance+support provision",
+        "name": "guidance+support provision",
+        "#text": "providing guidance and support to enable effective performance management"
+      },
+      {
+        "dataURL": "",
+        "id": "National Performance measures",
+        "name": "National Performance measures",
+        "#text": "National Performance measures which enable effective performance management"
+      },
+      {
+        "dataURL": "",
+        "id": "strategic leadership development",
+        "name": "strategic leadership development",
+        "#text": "developing strategic leadership that sets a compelling vision and challenges and transforms existing services to better meet the needs expressed by individuals and communities"
+      },
+      {
+        "dataURL": "",
+        "id": "existing technology infrastructure",
+        "name": "existing technology infrastructure",
+        "#text": "effective use of existing technology infrastructure to support integration"
+      },
+      {
+        "dataURL": "",
+        "id": "web+digital service development",
+        "name": "web+digital service development",
+        "#text": "collaboration with stakeholders to use and further develop existing national and local web and digital services to maximum effect and in support of best practice"
+      },
+      {
+        "dataURL": "",
+        "id": "care applications+services dissemination",
+        "name": "care applications+services dissemination",
+        "#text": "adopting, spreading and embedding technology-enabled care applications and services"
+      },
+      {
+        "dataURL": "",
+        "id": "technological care solution development",
+        "name": "technological care solution development",
+        "#text": "connecting with digital and technology providers to innovate and test new technology-enabled care solutions"
+      },
+      {
+        "dataURL": "",
+        "id": "good practice+innovation development",
+        "name": "good practice+innovation development",
+        "#text": "learn from, and reflect on, good practice and innovations from other parts of the system as well as those within the field of health and social care"
+      },
+      {
+        "dataURL": "",
+        "id": "procurement process implementation",
+        "name": "procurement process implementation",
+        "#text": "Support HSCPs to implement new procurement processes in ways that enable collaborative service delivery, where this provides the best value and outcomes"
+      },
+      {
+        "dataURL": "",
+        "id": "knowledge+skills+expertise of partners",
+        "name": "knowledge+skills+expertise of partners",
+        "#text": "Support HSCPs to fully utilise the knowledge, skills and expertise across their partners"
+      },
+      {
+        "dataURL": "",
+        "id": "performance frameworks",
+        "name": "performance frameworks",
+        "#text": "Leaders are enabled and supported to develop performance frameworks that best meet the local needs of those to whom they are reporting cf CE Act and to challenge performance reporting that does not support this aim"
+      },
+      {
+        "dataURL": "",
+        "id": "reviewing local impact +feedback",
+        "name": "reviewing local impact +feedback",
+        "#text": "Support to HandSCP partnerships to develop local approaches to evaluating impact and feedback in to partnerships"
+      },
+      {
+        "dataURL": "",
+        "id": "service user collaboratoin",
+        "name": "service user collaboratoin",
+        "#text": "Support HandSCP to listen to, and work with people who use services, including in response to complaints, concerns and feedback"
+      },
+      {
+        "dataURL": "",
+        "id": "good practice+innovations review",
+        "name": "good practice+innovations review",
+        "#text": "Support HSCPs to learn from, and reflect on, good practice and innovations from other parts of the system as well as those within the field of health and social care"
+      },
+      {
+        "dataURL": "",
+        "id": "Source",
+        "name": "Source",
+        "#text": "Health and Social Care Data Integration and Intelligence Project HSCDIIP data platform run by ISD, including the Tableau dashboard system for partnerships to access information to support them with their strategic plans in relation to Health and Social Care Integration"
+      },
+      {
+        "dataURL": "",
+        "id": "Local Intelligence Support Team LIST",
+        "name": "Local Intelligence Support Team LIST",
+        "#text": "Initiative run by ISD - places information specialists to work on-site with Health and Social Care Partnerships, Community Planning Partnerships and Local Authorities"
+      },
+      {
+        "dataURL": "",
+        "id": "Scottish Public Health Observatory ScotPHO",
+        "name": "Scottish Public Health Observatory ScotPHO",
+        "#text": "Collaboration co-led by ISD Scotland and NHS Health Scotland, aiming to provide a clear picture of the health of the Scottish population and the factors that affect it"
+      },
+      {
+        "dataURL": "",
+        "id": "Scottish Primary Care Information Resource SPIRE",
+        "name": "Scottish Primary Care Information Resource SPIRE",
+        "#text": "service that will allow small amounts of information from GP practice records to be used to help doctors' surgeries, NHSScotland and the Scottish Government to improve care and plan services, and to help researchers to learn more from patient information held at GP practices"
+      },
+      {
+        "dataURL": "",
+        "id": "NSS IT services",
+        "name": "NSS IT services",
+        "#text": "storing, linking, enabling and managing NHSS and HSCI data and processes"
+      },
+      {
+        "dataURL": "",
+        "id": "development of a common, core dataset",
+        "name": "development of a common, core dataset",
+        "#text": "Researching potential to develop a common, core dataset based on local measures and indicators, for benchmarking purposes, drawn from each of the Integrated Health and Social Care Partnerships HSCBN"
+      },
+      {
+        "dataURL": "",
+        "id": "ALISS integration pilot work",
+        "name": "ALISS integration pilot work",
+        "#text": "A Local Information System for Scotland ALISS integration pilot work for using 3rd sector data ALLIANCE"
+      },
+      {
+        "dataURL": "",
+        "id": "Threading the Needle work",
+        "name": "Threading the Needle work",
+        "#text": "Threading the Needle work being undertaken by Evaluation Support Scotland ALLIANCE"
+      },
+      {
+        "dataURL": "",
+        "id": "Evidence Databases",
+        "name": "Evidence Databases",
+        "#text": "Evidence Databases available through The Knowledge Network subscription content NES"
+      },
+      {
+        "dataURL": "",
+        "id": "Information Sharing Tool-kitandPublic Benefit and Privacy Panel",
+        "name": "Information Sharing Tool-kitandPublic Benefit and Privacy Panel",
+        "#text": "In 2015 an Information Sharing Tool-kit for Scotland was launched and a Public Benefit and Privacy Panel for NHS Scotland created. These provide guidance for IJBs requiring to create information sharing agreements, and a route for IG issues not answered by the guidance to be resolved. SG eHealth"
+      },
+      {
+        "dataURL": "",
+        "id": "development of a common, core dataset",
+        "name": "development of a common, core dataset",
+        "#text": "Researching potential to develop a common, core dataset based on local measures and indicators, for benchmarking purposes, drawn from each of the Integrated Health and Social Care Partnerships (HSCBN)"
+      },
+      {
+        "dataURL": "",
+        "id": "ALISS integration pilot work",
+        "name": "ALISS integration pilot work",
+        "#text": "A Local Information System for Scotland (ALISS) integration pilot work for using 3rd sector data (ALLIANCE)"
+      },
+      {
+        "dataURL": "",
+        "id": "Threading the Needle work",
+        "name": "Threading the Needle work",
+        "#text": "Threading the Needle work being undertaken by Evaluation Support Scotland (ALLIANCE)"
+      },
+      {
+        "dataURL": "",
+        "id": "Evidence Databases",
+        "name": "Evidence Databases",
+        "#text": "Evidence Databases available through The Knowledge Network subscription content (NES)"
+      },
+      {
+        "dataURL": "",
+        "id": "Information Sharing Tool-kit / Public Benefit and Privacy Panel",
+        "name": "Public Benefit and Privacy Panel",
+        "#text": "In 2015 an Information Sharing Tool-kit for Scotland was launched and a Public Benefit and Privacy Panel for NHS Scotland created. These provide guidance for IJBs requiring to create information sharing agreements, and a route for IG issues not answered by the guidance to be resolved. (SG e-health)"
+      },
+      {
+        "dataURL": "",
+        "id": "House of Care",
+        "name": "House of Care",
+        "#text": "this is the house of care model"
+      },
+      {
+        "dataURL": "",
+        "id": "House of Care",
+        "name": "House of Care",
+        "#text": "this is the house of care model"
+      }
+    ],
+    "Node": [
+      {
+        "id": "SFA PEOLC",
+        "name": "SFA PEOLC",
+        "dataURL": ""
+      },
+      {
+        "id": "_9. data",
+        "name": "_9. data",
+        "dataURL": ""
+      },
+      {
+        "id": "_11. funding review",
+        "name": "_11. funding review",
+        "dataURL": ""
+      },
+      {
+        "id": "Scott Murray",
+        "name": "Scott Murray",
+        "dataURL": ""
+      },
+      {
+        "id": "Healthcare Improvement Scotland",
+        "name": "Healthcare Improvement Scotland",
+        "dataURL": ""
+      },
+      {
+        "id": "_1.HIS + HSCP, ident + coord",
+        "name": "_1.HIS + HSCP, ident + coord",
+        "dataURL": ""
+      },
+      {
+        "id": "_2. strategic commissioning",
+        "name": "_2. strategic commissioning",
+        "dataURL": ""
+      },
+      {
+        "id": "_3. educational framework",
+        "name": "_3. educational framework",
+        "dataURL": ""
+      },
+      {
+        "id": "_4. care for 0-25yos",
+        "name": "_4. care for 0-25yos",
+        "dataURL": ""
+      },
+      {
+        "id": "_5. research forum",
+        "name": "_5. research forum",
+        "dataURL": ""
+      },
+      {
+        "id": "_6. culture change",
+        "name": "_6. culture change",
+        "dataURL": ""
+      },
+      {
+        "id": "_7. electronic care planning",
+        "name": "_7. electronic care planning",
+        "dataURL": ""
+      },
+      {
+        "id": "_8. economic and effectivness evaluations",
+        "name": "_8. economic and effectivness evaluations",
+        "dataURL": ""
+      },
+      {
+        "id": "_10. NIAG",
+        "name": "_10. NIAG",
+        "dataURL": ""
+      },
+      {
+        "id": "Bridget Johnston",
+        "name": "Bridget Johnston",
+        "dataURL": ""
+      },
+      {
+        "id": "Health and Social Care Partnerships",
+        "name": "Health and Social Care Partnerships",
+        "dataURL": ""
+      },
+      {
+        "id": "Scottish Partnership for Palliative Care",
+        "name": "Scottish Partnership for Palliative Care",
+        "dataURL": ""
+      },
+      {
+        "id": "Mark Hazelwood",
+        "name": "Mark Hazelwood",
+        "dataURL": ""
+      },
+      {
+        "id": "HSCPs",
+        "name": "HSCPs",
+        "dataURL": ""
+      },
+      {
+        "id": "quantitative and qualitative data",
+        "name": "quantitative and qualitative data",
+        "dataURL": ""
+      },
+      {
+        "id": "effective data use",
+        "name": "effective data use",
+        "dataURL": ""
+      },
+      {
+        "id": "outputs - evidence informed",
+        "name": "outputs - evidence informed",
+        "dataURL": ""
+      },
+      {
+        "id": "knowledge exchange",
+        "name": "knowledge exchange",
+        "dataURL": ""
+      },
+      {
+        "id": "research+monitoring+evaluation processes",
+        "name": "research+monitoring+evaluation processes",
+        "dataURL": ""
+      },
+      {
+        "id": "national workforce contracts",
+        "name": "national workforce contracts",
+        "dataURL": ""
+      },
+      {
+        "id": "pre-registration training",
+        "name": "pre-registration training",
+        "dataURL": ""
+      },
+      {
+        "id": "training development programmes+resources",
+        "name": "training development programmes+resources",
+        "dataURL": ""
+      },
+      {
+        "id": "health+social care workers",
+        "name": "health+social care workers",
+        "dataURL": ""
+      },
+      {
+        "id": "national workforce data",
+        "name": "national workforce data",
+        "dataURL": ""
+      },
+      {
+        "id": "local level workforce planning",
+        "name": "local level workforce planning",
+        "dataURL": ""
+      },
+      {
+        "id": "professional regulation",
+        "name": "professional regulation",
+        "dataURL": ""
+      },
+      {
+        "id": "multidisciplinary working models",
+        "name": "multidisciplinary working models",
+        "dataURL": ""
+      },
+      {
+        "id": "knowledge+skills+confidence",
+        "name": "knowledge+skills+confidence",
+        "dataURL": ""
+      },
+      {
+        "id": "consult citizens",
+        "name": "consult citizens",
+        "dataURL": ""
+      },
+      {
+        "id": "consult on service provision design",
+        "name": "consult on service provision design",
+        "dataURL": ""
+      },
+      {
+        "id": "knowledge+skills development",
+        "name": "knowledge+skills development",
+        "dataURL": ""
+      },
+      {
+        "id": "self-evaluation",
+        "name": "self-evaluation",
+        "dataURL": ""
+      },
+      {
+        "id": "community engagement",
+        "name": "community engagement",
+        "dataURL": ""
+      },
+      {
+        "id": "long-term plans+approaches development",
+        "name": "long-term plans+approaches development",
+        "dataURL": ""
+      },
+      {
+        "id": "new ways of working",
+        "name": "new ways of working",
+        "dataURL": ""
+      },
+      {
+        "id": "coaching support provision",
+        "name": "coaching support provision",
+        "dataURL": ""
+      },
+      {
+        "id": "national networks facilitation",
+        "name": "national networks facilitation",
+        "dataURL": ""
+      },
+      {
+        "id": "guidance+support provision",
+        "name": "guidance+support provision",
+        "dataURL": ""
+      },
+      {
+        "id": "National Performance measures",
+        "name": "National Performance measures",
+        "dataURL": ""
+      },
+      {
+        "id": "strategic leadership development",
+        "name": "strategic leadership development",
+        "dataURL": ""
+      },
+      {
+        "id": "existing technology infrastructure",
+        "name": "existing technology infrastructure",
+        "dataURL": ""
+      },
+      {
+        "id": "web+digital service development",
+        "name": "web+digital service development",
+        "dataURL": ""
+      },
+      {
+        "id": "care applications+services dissemination",
+        "name": "care applications+services dissemination",
+        "dataURL": ""
+      },
+      {
+        "id": "technological care solution development",
+        "name": "technological care solution development",
+        "dataURL": ""
+      },
+      {
+        "id": "good practice+innovation development",
+        "name": "good practice+innovation development",
+        "dataURL": ""
+      },
+      {
+        "id": "procurement process implementation",
+        "name": "procurement process implementation",
+        "dataURL": ""
+      },
+      {
+        "id": "knowledge+skills+expertise of partners",
+        "name": "knowledge+skills+expertise of partners",
+        "dataURL": ""
+      },
+      {
+        "id": "HSC outcome evaluations",
+        "name": "HSC outcome evaluations",
+        "dataURL": ""
+      },
+      {
+        "id": "performance frameworks",
+        "name": "performance frameworks",
+        "dataURL": ""
+      },
+      {
+        "id": "reviewing local impact +feedback",
+        "name": "reviewing local impact +feedback",
+        "dataURL": ""
+      },
+      {
+        "id": "service user collaboratoin",
+        "name": "service user collaboratoin",
+        "dataURL": ""
+      },
+      {
+        "id": "good practice+innovations review",
+        "name": "good practice+innovations review",
+        "dataURL": ""
+      },
+      {
+        "id": "data: quantitative and qualitative",
+        "name": "data: quantitative and qualitative",
+        "dataURL": ""
+      },
+      {
+        "id": "Source",
+        "name": "Source",
+        "dataURL": ""
+      },
+      {
+        "id": "Local Intelligence Support Team LIST",
+        "name": "Local Intelligence Support Team LIST",
+        "dataURL": ""
+      },
+      {
+        "id": "Scottish Public Health Observatory ScotPHO",
+        "name": "Scottish Public Health Observatory ScotPHO",
+        "dataURL": ""
+      },
+      {
+        "id": "Scottish Primary Care Information Resource SPIRE",
+        "name": "Scottish Primary Care Information Resource SPIRE",
+        "dataURL": ""
+      },
+      {
+        "id": "NSS IT services",
+        "name": "NSS IT services",
+        "dataURL": ""
+      },
+      {
+        "id": "development of a common, core dataset",
+        "name": "development of a common, core dataset",
+        "dataURL": ""
+      },
+      {
+        "id": "ALISS integration pilot work",
+        "name": "ALISS integration pilot work",
+        "dataURL": ""
+      },
+      {
+        "id": "Threading the Needle work",
+        "name": "Threading the Needle work",
+        "dataURL": ""
+      },
+      {
+        "id": "Evidence Databases",
+        "name": "Evidence Databases",
+        "dataURL": ""
+      },
+      {
+        "id": "Information Sharing Agreement development",
+        "name": "Information Sharing Agreement development",
+        "dataURL": ""
+      },
+      {
+        "id": "Information Sharing Tool-kitandPublic Benefit and Privacy Panel",
+        "name": "Information Sharing Tool-kitandPublic Benefit and Privacy Panel",
+        "dataURL": ""
+      },
+      {
+        "id": "IT connectivity development",
+        "name": "IT connectivity development",
+        "dataURL": ""
+      },
+      {
+        "id": "Information Sharing Tool-kit / Public Benefit and Privacy Panel",
+        "name": "Public Benefit and Privacy Panel",
+        "dataURL": ""
+      },
+      {
+        "id": "Reduce_adverse_events incl mortality",
+        "name": "Reduce_adverse_events incl mortality",
+        "dataURL": ""
+      },
+      {
+        "id": "reliable evidence based care",
+        "name": "reliable evidence based care",
+        "dataURL": ""
+      },
+      {
+        "id": "Designed with patients",
+        "name": "Designed with patients",
+        "dataURL": ""
+      },
+      {
+        "id": "Supportive infrastructure",
+        "name": "Supportive infrastructure",
+        "dataURL": ""
+      },
+      {
+        "id": "effective collaborative innovative team",
+        "name": "effective collaborative innovative team",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing a",
+        "name": "Thing a",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing b",
+        "name": "Thing b",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing c",
+        "name": "Thing c",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing d",
+        "name": "Thing d",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing e1",
+        "name": "Thing e1",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing e2",
+        "name": "Thing e2",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing e3",
+        "name": "Thing e3",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing F",
+        "name": "Thing F",
+        "dataURL": ""
+      },
+      {
+        "id": "HIS Healthcare Improvement Scotland",
+        "name": "HIS Healthcare Improvement Scotland",
+        "dataURL": ""
+      },
+      {
+        "id": "Pedro",
+        "name": "Pedro",
+        "dataURL": ""
+      },
+      {
+        "id": "Independent hospices",
+        "name": "Independent hospices",
+        "dataURL": ""
+      },
+      {
+        "id": "House of Care",
+        "name": "House of Care",
+        "dataURL": ""
+      },
+      {
+        "id": "Care Plans",
+        "name": "Care Plans",
+        "dataURL": ""
+      },
+      {
+        "id": "_1.HIS  HSCP, ident coord",
+        "name": "_1.HIS HSCP, ident coord",
+        "dataURL": ""
+      },
+      {
+        "id": "Vision: By 2021, everyone in Scotland who needs palliative care will have access to it.",
+        "name": "Vision: By 2021, everyone in Scotland who needs palliative care will have access to it.",
+        "dataURL": ""
+      },
+      {
+        "id": "Scottish Government Policy",
+        "name": "Scottish Government Policy",
+        "dataURL": ""
+      },
+      {
+        "id": "Cancer Strategy",
+        "name": "Cancer Strategy",
+        "dataURL": ""
+      },
+      {
+        "id": "GoodlifeGooddeathGoodgrief",
+        "name": "GoodlifeGooddeathGoodgrief",
+        "dataURL": ""
+      },
+      {
+        "id": "Scottish Government",
+        "name": "Scottish Government",
+        "dataURL": ""
+      },
+      {
+        "id": "HIS",
+        "name": "HIS",
+        "dataURL": ""
+      },
+      {
+        "id": "University of Edinburgh Primary Palliative Care Research Group",
+        "name": "University of Edinburgh Primary Palliative Care Research Group",
+        "dataURL": ""
+      },
+      {
+        "id": "Indpendent hospices",
+        "name": "Indpendent hospices",
+        "dataURL": ""
+      },
+      {
+        "id": "NHS Boards",
+        "name": "NHS Boards",
+        "dataURL": ""
+      },
+      {
+        "id": "_1.HIS HSCP, ident coord",
+        "name": "_1.HIS HSCP, ident coord",
+        "dataURL": ""
+      },
+      {
+        "id": "Commitment",
+        "name": "Commitment",
+        "dataURL": ""
+      },
+      {
+        "id": "information sharing agreements",
+        "name": "information sharing agreements",
+        "dataURL": ""
+      },
+      {
+        "id": "staff health+wellbeing facilitation",
+        "name": "staff health+wellbeing facilitation",
+        "dataURL": ""
+      },
+      {
+        "id": "third sector contribution development",
+        "name": "third sector contribution development",
+        "dataURL": ""
+      },
+      {
+        "id": "joint strategic commissioning skills development",
+        "name": "joint strategic commissioning skills development",
+        "dataURL": ""
+      },
+      {
+        "id": "key care delivery improvement priorities",
+        "name": "key care delivery improvement priorities",
+        "dataURL": ""
+      },
+      {
+        "id": "QI training+development programmes",
+        "name": "QI training+development programmes",
+        "dataURL": ""
+      },
+      {
+        "id": "leadership development programmes",
+        "name": "leadership development programmes",
+        "dataURL": ""
+      },
+      {
+        "id": "effective partnership working",
+        "name": "effective partnership working",
+        "dataURL": ""
+      },
+      {
+        "id": "national procurement driving efficiencies",
+        "name": "national procurement driving efficiencies",
+        "dataURL": ""
+      },
+      {
+        "id": "counter-fraud support",
+        "name": "counter-fraud support",
+        "dataURL": ""
+      },
+      {
+        "id": "facilities management support",
+        "name": "facilities management support",
+        "dataURL": ""
+      },
+      {
+        "id": "shared services benefit evaluation",
+        "name": "shared services benefit evaluation",
+        "dataURL": ""
+      },
+      {
+        "id": "legal services",
+        "name": "legal services",
+        "dataURL": ""
+      },
+      {
+        "id": "scrutiny+assurance+audit - external",
+        "name": "scrutiny+assurance+audit - external",
+        "dataURL": ""
+      },
+      {
+        "id": "agreed national indicators",
+        "name": "agreed national indicators",
+        "dataURL": ""
+      },
+      {
+        "id": "agreed priority issues",
+        "name": "agreed priority issues",
+        "dataURL": ""
+      },
+      {
+        "id": "reviewing local impact + feedback",
+        "name": "reviewing local impact + feedback",
+        "dataURL": ""
+      },
+      {
+        "id": "Development of indicators to support outcomes framework ISD SG ASD SG HSCI",
+        "name": "Development of indicators to support outcomes framework ISD SG ASD SG HSCI",
+        "dataURL": ""
+      },
+      {
+        "id": "Developing use of process mining software PROM",
+        "name": "Developing use of process mining software PROM",
+        "dataURL": ""
+      },
+      {
+        "id": "provision of Data Warehouse Service",
+        "name": "provision of Data Warehouse Service",
+        "dataURL": ""
+      },
+      {
+        "id": "Data Visualisation via Tableau",
+        "name": "Data Visualisation via Tableau",
+        "dataURL": ""
+      },
+      {
+        "id": "Provision of clinical dashboard capability",
+        "name": "Provision of clinical dashboard capability",
+        "dataURL": ""
+      },
+      {
+        "id": "Hosting and management of SWAN",
+        "name": "Hosting and management of SWAN",
+        "dataURL": ""
+      },
+      {
+        "id": "Scottish Health on the Web SHOW",
+        "name": "Scottish Health on the Web SHOW",
+        "dataURL": ""
+      },
+      {
+        "id": "SCI Store",
+        "name": "SCI Store",
+        "dataURL": ""
+      },
+      {
+        "id": "Ensemble",
+        "name": "Ensemble",
+        "dataURL": ""
+      },
+      {
+        "id": "Edison - patient discharge information system",
+        "name": "Edison - patient discharge information system",
+        "dataURL": ""
+      },
+      {
+        "id": "Video Conferencing capability and mangement supporting telehealth and telecare NSS",
+        "name": "Video Conferencing capability and mangement supporting telehealth and telecare NSS",
+        "dataURL": ""
+      },
+      {
+        "id": "Web Landscape Review E-health",
+        "name": "Web Landscape Review E-health",
+        "dataURL": ""
+      },
+      {
+        "id": "quarterly themed meetings for members involving ASD and ISD HSCBN",
+        "name": "quarterly themed meetings for members involving ASD and ISD HSCBN",
+        "dataURL": ""
+      },
+      {
+        "id": "3rd sector mapping activity undertaken by TSIs",
+        "name": "3rd sector mapping activity undertaken by TSIs",
+        "dataURL": ""
+      },
+      {
+        "id": "TSI support to local 3rd sector organisations",
+        "name": "TSI support to local 3rd sector organisations",
+        "dataURL": ""
+      },
+      {
+        "id": "Work being undertaken by national outcomes group under Community Planning",
+        "name": "Work being undertaken by national outcomes group under Community Planning",
+        "dataURL": ""
+      },
+      {
+        "id": "Supporting development of  local agreements",
+        "name": "Supporting development of local agreements",
+        "dataURL": ""
+      },
+      {
+        "id": "Information Sharing Tool-kit andPublic Benefit and Privacy Panel",
+        "name": "Information Sharing Tool-kit andPublic Benefit and Privacy Panel",
+        "dataURL": ""
+      },
+      {
+        "id": "e-health leads network SG eHealth",
+        "name": "e-health leads network SG eHealth",
+        "dataURL": ""
+      },
+      {
+        "id": "Health and Care portal technology SG eHealth",
+        "name": "Health and Care portal technology SG eHealth",
+        "dataURL": ""
+      },
+      {
+        "id": "My Account SG eHealth",
+        "name": "My Account SG eHealth",
+        "dataURL": ""
+      },
+      {
+        "id": "Mygov.scot Digital Directorate",
+        "name": "Mygov.scot Digital Directorate",
+        "dataURL": ""
+      },
+      {
+        "id": "Web Landscape Review SG eHealth",
+        "name": "Web Landscape Review SG eHealth",
+        "dataURL": ""
+      },
+      {
+        "id": "e-health leads network (SG e-health)",
+        "name": "e-health leads network (SG e-health)",
+        "dataURL": ""
+      },
+      {
+        "id": "Health and Care portal technology (SG e-health)",
+        "name": "Health and Care portal technology (SG e-health)",
+        "dataURL": ""
+      },
+      {
+        "id": "My Account (SG e-health)",
+        "name": "My Account (SG e-health)",
+        "dataURL": ""
+      },
+      {
+        "id": "Mygov.scot (Digital Directorate)",
+        "name": "Mygov.scot (Digital Directorate)",
+        "dataURL": ""
+      },
+      {
+        "id": "Web Landscape Review (SG E-health)",
+        "name": "Web Landscape Review (SG E-health)",
+        "dataURL": ""
+      },
+      {
+        "id": "Ventilator complications reduced",
+        "name": "Ventilator complications reduced",
+        "dataURL": ""
+      },
+      {
+        "id": "Central_venous_catheter complications reduced",
+        "name": "Central_venous_catheter complications reduced",
+        "dataURL": ""
+      },
+      {
+        "id": "Glucose control optimised",
+        "name": "Glucose control optimised",
+        "dataURL": ""
+      },
+      {
+        "id": "HAIs prevented",
+        "name": "HAIs prevented",
+        "dataURL": ""
+      },
+      {
+        "id": "Cross contamination prevented",
+        "name": "Cross contamination prevented",
+        "dataURL": ""
+      },
+      {
+        "id": "Proper sepsis recognition+treatment",
+        "name": "Proper sepsis recognition+treatment",
+        "dataURL": ""
+      },
+      {
+        "id": "Open communications among team",
+        "name": "Open communications among team",
+        "dataURL": ""
+      },
+      {
+        "id": "Open communications with family",
+        "name": "Open communications with family",
+        "dataURL": ""
+      },
+      {
+        "id": "Clarify care wishes",
+        "name": "Clarify care wishes",
+        "dataURL": ""
+      },
+      {
+        "id": "Clarify End_of_Life planning",
+        "name": "Clarify End_of_Life planning",
+        "dataURL": ""
+      },
+      {
+        "id": "Leadership supports consistent care",
+        "name": "Leadership supports consistent care",
+        "dataURL": ""
+      },
+      {
+        "id": "Leadership supportives evidence based care",
+        "name": "Leadership supportives evidence based care",
+        "dataURL": ""
+      },
+      {
+        "id": "Improve the ICU throughput",
+        "name": "Improve the ICU throughput",
+        "dataURL": ""
+      },
+      {
+        "id": "Staff support improvement ethos",
+        "name": "Staff support improvement ethos",
+        "dataURL": ""
+      },
+      {
+        "id": "Reliable care planning",
+        "name": "Reliable care planning",
+        "dataURL": ""
+      },
+      {
+        "id": "Reliable communication",
+        "name": "Reliable communication",
+        "dataURL": ""
+      },
+      {
+        "id": "Reliable MDT collaboration",
+        "name": "Reliable MDT collaboration",
+        "dataURL": ""
+      },
+      {
+        "id": "Thing G",
+        "name": "Thing G",
+        "dataURL": ""
+      },
+      {
+        "id": "Information Sharing Tool-kit and Public Benefit and Privacy Panel",
+        "name": "Information Sharing Tool-kit and Public Benefit and Privacy Panel",
+        "dataURL": ""
+      },
+      {
+        "id": "Peter",
+        "name": "Peter",
+        "dataURL": ""
+      },
+      {
+        "id": "Green",
+        "name": "Green",
+        "dataURL": ""
+      }
+    ]
+  },
+  "edges": {
+    "DirectedRelation": [
+      {
+        "from": "TopNode",
+        "to": "Healthcare Improvement Scotland",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "_1.HIS + HSCP, ident + coord",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Bridget Johnston",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Mark Hazelwood",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "HSCPs",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "HSC outcome evaluations",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "data: quantitative and qualitative",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Information Sharing Agreement development",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Information Sharing Tool-kitandPublic Benefit and Privacy Panel",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Reduce_adverse_events incl mortality",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Thing a",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "HIS Healthcare Improvement Scotland",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Pedro",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Independent hospices",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "TopNode",
+        "to": "Care Plans",
+        "label": "TopLevel",
+        "color": "0x12CDE4",
+        "letterSymbol": "TL"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_1.HIS HSCP, ident coord",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_2. strategic commissioning",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_3. educational framework",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_4. care for 0-25yos",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_5. research forum",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_6. culture change",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_7. electronic care planning",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_8. economic and effectivness evaluations",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_9. data",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_10. NIAG",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "_11. funding review",
+        "label": "is a commitment of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Vision: By 2021, everyone in Scotland who needs palliative care will have access to it.",
+        "label": "is necessary to deliver"
+      },
+      {
+        "from": "_9. data",
+        "to": "_8. economic and effectivness evaluations",
+        "label": "is a key part of"
+      },
+      {
+        "from": "_11. funding review",
+        "to": "_2. strategic commissioning",
+        "label": "has common elements with"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Scottish Government Policy",
+        "label": "is a"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Cancer Strategy",
+        "label": "is helpful to deliver"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "GoodlifeGooddeathGoodgrief",
+        "label": "has common elements with"
+      },
+      {
+        "from": "Scott Murray",
+        "to": "_10. NIAG",
+        "label": "part of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Scottish Government",
+        "label": "requires"
+      },
+      {
+        "from": "Healthcare Improvement Scotland",
+        "to": "HIS",
+        "label": "acronym"
+      },
+      {
+        "from": "Healthcare Improvement Scotland",
+        "to": "SFA PEOLC",
+        "label": "is necessary to deliver"
+      },
+      {
+        "from": "_1.HIS + HSCP, ident + coord",
+        "to": "Support Healthcare Improvement Scotland in providing Health and Social Care Partnerships with expertise on testing and implementing improvements in the identification and care co-ordination of those who can benefit from palliative and end of life care.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_2. strategic commissioning",
+        "to": "Provide strategic commissioning guidance on palliative and end of life care to Health and Social Care Partnerships.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_3. educational framework",
+        "to": "Support the development of a new palliative and end of life care educational framework.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_4. care for 0-25yos",
+        "to": "Support and promote the further development of holistic palliative care for the 0-25 years age group.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_5. research forum",
+        "to": "Support the establishment of the Scottish Research Forum for Palliative and End of Life Care.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_6. culture change",
+        "to": "Support greater public and personal discussion of bereavement, death, dying and care at the end of life, partly through commissioning work to facilitate this.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_7. electronic care planning",
+        "to": "Seek to ensure that future requirements of e-Health systems support the effective sharing of individual end of life and Anticipatory Care Planning conversations.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_8. economic and effectivness evaluations",
+        "to": "Support clinical and health economic evaluations of palliative and end of life care models.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_9. data",
+        "to": "Support improvements in the collection, analysis, interpretation and dissemination of data and evidence relating to needs, provision, activity, indicators and outcomes in respect of palliative and end of life care.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_10. NIAG",
+        "to": "Establish a new National Implementation Support Group to support the implementation of improvement actions.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "_11. funding review",
+        "to": "Review hospice funding, in particular the differing levels for adult and children's hospices",
+        "label": "Spotlight"
+      },
+      {
+        "from": "Scott Murray",
+        "to": "_5. research forum",
+        "label": "is necessary to deliver"
+      },
+      {
+        "from": "Bridget Johnston",
+        "to": "_5. research forum",
+        "label": "is necessary to deliver"
+      },
+      {
+        "from": "Scott Murray",
+        "to": "University of Edinburgh Primary Palliative Care Research Group",
+        "label": "is a key part of"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Indpendent hospices",
+        "label": "requires"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "NHS Boards",
+        "label": "requires"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Health and Social Care Partnerships",
+        "label": "requires"
+      },
+      {
+        "from": "Health and Social Care Partnerships",
+        "to": "_2. strategic commissioning",
+        "label": "requires"
+      },
+      {
+        "from": "Health and Social Care Partnerships",
+        "to": "NHS Boards",
+        "label": "requires"
+      },
+      {
+        "from": "Health and Social Care Partnerships",
+        "to": "_1.HIS HSCP, ident coord",
+        "label": "requires"
+      },
+      {
+        "from": "Health and Social Care Partnerships",
+        "to": "_9. data",
+        "label": "requires"
+      },
+      {
+        "from": "Scottish Partnership for Palliative Care",
+        "to": "SFA PEOLC",
+        "label": "is helpful to deliver"
+      },
+      {
+        "from": "Scottish Partnership for Palliative Care",
+        "to": "_6. culture change",
+        "label": "is a key part of"
+      },
+      {
+        "from": "Scottish Partnership for Palliative Care",
+        "to": "_5. research forum",
+        "label": "is a key part of"
+      },
+      {
+        "from": "_1.HIS + HSCP, ident + coord",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_2. strategic commissioning",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_3. educational framework",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_4. care for 0-25yos",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_5. research forum",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_6. culture change",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_7. electronic care planning",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_8. economic and effectivness evaluations",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_9. data",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_10. NIAG",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "_11. funding review",
+        "to": "Commitment",
+        "label": "is a"
+      },
+      {
+        "from": "SFA PEOLC",
+        "to": "Within the Scottish Government team we are endeavouring to use the principles of the semantically enabled web to ensure that work on the strategic framework for action of palliative and end of life care links up with work on-going elsewhere and with other government programs.",
+        "label": "Spotlight"
+      },
+      {
+        "from": "Mark Hazelwood",
+        "to": "Scottish Partnership for Palliative Care",
+        "label": "part of"
+      },
+      {
+        "from": "Mark Hazelwood",
+        "to": "_10. NIAG",
+        "label": "part of"
+      },
+      {
+        "from": "HSCPs",
+        "to": "quantitative and qualitative data",
+        "label": "are enabled by"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "availability of meaningful quantitative and qualitative data including comparative data",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "information sharing agreements",
+        "label": "are enabled by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "IT connectivity development",
+        "label": "are enabled by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "effective data use",
+        "label": "are enabled by"
+      },
+      {
+        "from": "effective data use",
+        "to": "developing capacity and capability for effective analysis, interpretation and application of data",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "outputs - evidence informed",
+        "label": "are enabled by"
+      },
+      {
+        "from": "outputs - evidence informed",
+        "to": "developing evidence informed outputs to support service provision and redesign",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "knowledge exchange",
+        "label": "are enabled by"
+      },
+      {
+        "from": "knowledge exchange",
+        "to": "knowledge exchange of what works to inform policy and practice",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "research+monitoring+evaluation processes",
+        "label": "are enabled by"
+      },
+      {
+        "from": "research+monitoring+evaluation processes",
+        "to": "developing robust research and monitoring and evaluation to improve understanding of interventions which work in particular circumstances",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "national workforce contracts",
+        "label": "are enabled by"
+      },
+      {
+        "from": "national workforce contracts",
+        "to": "ensuring national workforce contracts support the needs of integrated health and social care services",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "pre-registration training",
+        "label": "are enabled by"
+      },
+      {
+        "from": "pre-registration training",
+        "to": "ensuring pre-registration training supports the development of professionals skilled to work across integrated services",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "staff health+wellbeing facilitation",
+        "label": "are enabled by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "training development programmes+resources",
+        "label": "are enabled by"
+      },
+      {
+        "from": "training development programmes+resources",
+        "to": "ensure training and development programmes and resources in place which support a workforce with the knowledge and skills to deliver the 2020 vision and the Vision and Strategy for Social Services",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "health+social care workers",
+        "label": "provide support to"
+      },
+      {
+        "from": "health+social care workers",
+        "to": "support to enable all those working in health and social care services whether as managers or frontline practitioners to embrace outcomes-focused practice",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "national workforce data",
+        "label": "are enabled by"
+      },
+      {
+        "from": "national workforce data",
+        "to": "provides meaningful national workforce data that supports the work of redesign",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "local level workforce planning",
+        "label": "are enabled by"
+      },
+      {
+        "from": "local level workforce planning",
+        "to": "support HSCP to undertake workforce planning at a local level, developing a whole system approach",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "professional regulation",
+        "label": "are enabled by"
+      },
+      {
+        "from": "professional regulation",
+        "to": "ensure professional regulation is enacted in a way that is supportive of the delivery of integrated services, but maintains public assurance and rigour",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "multidisciplinary working models",
+        "label": "are enabled by"
+      },
+      {
+        "from": "multidisciplinary working models",
+        "to": "support the testing of new models of multidisciplinary working and ensure learning captured and spread across different settings",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "third sector contribution development",
+        "label": "are enabled by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "knowledge+skills+confidence",
+        "label": "are enabled by"
+      },
+      {
+        "from": "knowledge+skills+confidence",
+        "to": "development of knowledge, skills and confidence to effectively lead and implement transformational redesign",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "consult citizens",
+        "label": "are encouraged to"
+      },
+      {
+        "from": "consult citizens",
+        "to": "consultation with citizens in the design and delivery of services",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "consult on service provision design",
+        "label": "are encouraged to"
+      },
+      {
+        "from": "consult on service provision design",
+        "to": "work with GP clusters, TSIs and other bodies to inform the design of service provision",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "knowledge+skills development",
+        "label": "are supported in"
+      },
+      {
+        "from": "knowledge+skills development",
+        "to": "development of the knowledge and skills to effectively lead the work of improvement and large scale change",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "self-evaluation",
+        "label": "are supported in"
+      },
+      {
+        "from": "self-evaluation",
+        "to": "self-evaluation of their performance and key development priorities",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "joint strategic commissioning skills development",
+        "label": "are supported in"
+      },
+      {
+        "from": "HSCPs",
+        "to": "key care delivery improvement priorities",
+        "label": "are supported in"
+      },
+      {
+        "from": "HSCPs",
+        "to": "QI training+development programmes",
+        "label": "are supported in"
+      },
+      {
+        "from": "HSCPs",
+        "to": "community engagement",
+        "label": "are supported by"
+      },
+      {
+        "from": "community engagement",
+        "to": "encouraging individuals receiving care, their families and wider communities to engage in the work of improvement",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "long-term plans+approaches development",
+        "label": "are supported in"
+      },
+      {
+        "from": "long-term plans+approaches development",
+        "to": "long-term plans and approaches designed to deliver new, transformational, models of care and support",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "new ways of working",
+        "label": "are supported in"
+      },
+      {
+        "from": "new ways of working",
+        "to": "ensure that evidence-based new ways of working are implemented in their areas",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "leadership development programmes",
+        "label": "are supported in"
+      },
+      {
+        "from": "HSCPs",
+        "to": "effective partnership working",
+        "label": "are supported in"
+      },
+      {
+        "from": "HSCPs",
+        "to": "coaching support provision",
+        "label": "are supported in"
+      },
+      {
+        "from": "coaching support provision",
+        "to": "coaching support to enable effective leadership of change and effective leadership of integrated services",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "national networks facilitation",
+        "label": "are supported in"
+      },
+      {
+        "from": "national networks facilitation",
+        "to": "national networks to enable learning to be quickly transferred across the system",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "guidance+support provision",
+        "label": "are supported in"
+      },
+      {
+        "from": "guidance+support provision",
+        "to": "providing guidance and support to enable effective performance management",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "National Performance measures",
+        "label": "are supported by"
+      },
+      {
+        "from": "National Performance measures",
+        "to": "National Performance measures which enable effective performance management",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "strategic leadership development",
+        "label": "are supported in"
+      },
+      {
+        "from": "strategic leadership development",
+        "to": "developing strategic leadership that sets a compelling vision and challenges and transforms existing services to better meet the needs expressed by individuals and communities",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "existing technology infrastructure",
+        "label": "are supported by"
+      },
+      {
+        "from": "existing technology infrastructure",
+        "to": "effective use of existing technology infrastructure to support integration",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "web+digital service development",
+        "label": "are supported in"
+      },
+      {
+        "from": "web+digital service development",
+        "to": "collaboration with stakeholders to use and further develop existing national and local web and digital services to maximum effect and in support of best practice",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "care applications+services dissemination",
+        "label": "are supported in"
+      },
+      {
+        "from": "care applications+services dissemination",
+        "to": "adopting, spreading and embedding technology-enabled care applications and services",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "technological care solution development",
+        "label": "are supported in"
+      },
+      {
+        "from": "technological care solution development",
+        "to": "connecting with digital and technology providers to innovate and test new technology-enabled care solutions",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "good practice+innovation development",
+        "label": "are supported in"
+      },
+      {
+        "from": "good practice+innovation development",
+        "to": "learn from, and reflect on, good practice and innovations from other parts of the system as well as those within the field of health and social care",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "national procurement driving efficiencies",
+        "label": "are enabled by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "counter-fraud support",
+        "label": "are enabled by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "facilities management support",
+        "label": "are supported by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "shared services benefit evaluation",
+        "label": "are supported by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "legal services",
+        "label": "are supported by"
+      },
+      {
+        "from": "HSCPs",
+        "to": "procurement process implementation",
+        "label": "are supported in"
+      },
+      {
+        "from": "procurement process implementation",
+        "to": "Support HSCPs to implement new procurement processes in ways that enable collaborative service delivery, where this provides the best value and outcomes",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSCPs",
+        "to": "knowledge+skills+expertise of partners",
+        "label": "are supported by"
+      },
+      {
+        "from": "knowledge+skills+expertise of partners",
+        "to": "Support HSCPs to fully utilise the knowledge, skills and expertise across their partners",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "scrutiny+assurance+audit - external",
+        "label": "include"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "performance frameworks",
+        "label": "include"
+      },
+      {
+        "from": "performance frameworks",
+        "to": "Leaders are enabled and supported to develop performance frameworks that best meet the local needs of those to whom they are reporting cf CE Act and to challenge performance reporting that does not support this aim",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "agreed national indicators",
+        "label": "include"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "agreed priority issues",
+        "label": "include"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "reviewing local impact + feedback",
+        "label": "include"
+      },
+      {
+        "from": "reviewing local impact +feedback",
+        "to": "Support to HandSCP partnerships to develop local approaches to evaluating impact and feedback in to partnerships",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "service user collaboratoin",
+        "label": "include"
+      },
+      {
+        "from": "service user collaboratoin",
+        "to": "Support HandSCP to listen to, and work with people who use services, including in response to complaints, concerns and feedback",
+        "label": "Spotlight"
+      },
+      {
+        "from": "HSC outcome evaluations",
+        "to": "good practice+innovations review",
+        "label": "include"
+      },
+      {
+        "from": "good practice+innovations review",
+        "to": "Support HSCPs to learn from, and reflect on, good practice and innovations from other parts of the system as well as those within the field of health and social care",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Source",
+        "label": "supported by"
+      },
+      {
+        "from": "Source",
+        "to": "Health and Social Care Data Integration and Intelligence Project HSCDIIP data platform run by ISD, including the Tableau dashboard system for partnerships to access information to support them with their strategic plans in relation to Health and Social Care Integration",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Local Intelligence Support Team LIST",
+        "label": "supported by"
+      },
+      {
+        "from": "Local Intelligence Support Team LIST",
+        "to": "Initiative run by ISD - places information specialists to work on-site with Health and Social Care Partnerships, Community Planning Partnerships and Local Authorities",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Scottish Public Health Observatory ScotPHO",
+        "label": "supported by"
+      },
+      {
+        "from": "Scottish Public Health Observatory ScotPHO",
+        "to": "Collaboration co-led by ISD Scotland and NHS Health Scotland, aiming to provide a clear picture of the health of the Scottish population and the factors that affect it",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Development of indicators to support outcomes framework ISD SG ASD SG HSCI",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Scottish Primary Care Information Resource SPIRE",
+        "label": "supported by"
+      },
+      {
+        "from": "Scottish Primary Care Information Resource SPIRE",
+        "to": "service that will allow small amounts of information from GP practice records to be used to help doctors' surgeries, NHSScotland and the Scottish Government to improve care and plan services, and to help researchers to learn more from patient information held at GP practices",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Developing use of process mining software PROM",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "NSS IT services",
+        "label": "supported by"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "storing, linking, enabling and managing NHSS and HSCI data and processes",
+        "label": "Spotlight"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "provision of Data Warehouse Service",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Data Visualisation via Tableau",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Provision of clinical dashboard capability",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Hosting and management of SWAN",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Scottish Health on the Web SHOW",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "SCI Store",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Ensemble",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Edison - patient discharge information system",
+        "label": "function via"
+      },
+      {
+        "from": "NSS IT services",
+        "to": "Video Conferencing capability and mangement supporting telehealth and telecare NSS",
+        "label": "function via"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Web Landscape Review E-health",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "quarterly themed meetings for members involving ASD and ISD HSCBN",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "development of a common, core dataset",
+        "label": "supported by"
+      },
+      {
+        "from": "development of a common, core dataset",
+        "to": "Researching potential to develop a common, core dataset based on local measures and indicators, for benchmarking purposes, drawn from each of the Integrated Health and Social Care Partnerships HSCBN",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "ALISS integration pilot work",
+        "label": "supported by"
+      },
+      {
+        "from": "ALISS integration pilot work",
+        "to": "A Local Information System for Scotland ALISS integration pilot work for using 3rd sector data ALLIANCE",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Threading the Needle work",
+        "label": "supported by"
+      },
+      {
+        "from": "Threading the Needle work",
+        "to": "Threading the Needle work being undertaken by Evaluation Support Scotland ALLIANCE",
+        "label": "Spotlight"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "3rd sector mapping activity undertaken by TSIs",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "TSI support to local 3rd sector organisations",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Work being undertaken by national outcomes group under Community Planning",
+        "label": "supported by"
+      },
+      {
+        "from": "data: quantitative and qualitative",
+        "to": "Evidence Databases",
+        "label": "supported by"
+      },
+      {
+        "from": "Evidence Databases",
+        "to": "Evidence Databases available through The Knowledge Network subscription content NES",
+        "label": "Spotlight"
+      },
+      {
+        "from": "Information Sharing Agreement development",
+        "to": "Supporting development of local agreements",
+        "label": "supported by"
+      },
+      {
+        "from": "Information Sharing Agreement development",
+        "to": "Information Sharing Tool-kit andPublic Benefit and Privacy Panel",
+        "label": "supported by"
+      },
+      {
+        "from": "Information Sharing Tool-kitandPublic Benefit and Privacy Panel",
+        "to": "In 2015 an Information Sharing Tool-kit for Scotland was launched and a Public Benefit and Privacy Panel for NHS Scotland created. These provide guidance for IJBs requiring to create information sharing agreements, and a route for IG issues not answered by the guidance to be resolved. SG eHealth",
+        "label": "Spotlight"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "e-health leads network SG eHealth",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "Health and Care portal technology SG eHealth",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "My Account SG eHealth",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "Mygov.scot Digital Directorate",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "Web Landscape Review SG eHealth",
+        "label": "supported by"
+      },
+      {
+        "from": "development of a common, core dataset",
+        "to": "Researching potential to develop a common, core dataset based on local measures and indicators, for benchmarking purposes, drawn from each of the Integrated Health and Social Care Partnerships (HSCBN)",
+        "label": "Spotlight"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "ALISS integration pilot work",
+        "label": "supported by"
+      },
+      {
+        "from": "ALISS integration pilot work",
+        "to": "A Local Information System for Scotland (ALISS) integration pilot work for using 3rd sector data (ALLIANCE)",
+        "label": "Spotlight"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "Threading the Needle work",
+        "label": "supported by"
+      },
+      {
+        "from": "Threading the Needle work",
+        "to": "Threading the Needle work being undertaken by Evaluation Support Scotland (ALLIANCE)",
+        "label": "Spotlight"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "3rd sector mapping activity undertaken by TSIs",
+        "label": "supported by"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "TSI support to local 3rd sector organisations",
+        "label": "supported by"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "Work being undertaken by national outcomes group under Community Planning",
+        "label": "supported by"
+      },
+      {
+        "from": "quantitative and qualitative data",
+        "to": "Evidence Databases",
+        "label": "supported by"
+      },
+      {
+        "from": "Evidence Databases",
+        "to": "Evidence Databases available through The Knowledge Network subscription content (NES)",
+        "label": "Spotlight"
+      },
+      {
+        "from": "Information Sharing Agreement development",
+        "to": "Information Sharing Tool-kit / Public Benefit and Privacy Panel",
+        "label": "supported by"
+      },
+      {
+        "from": "Information Sharing Tool-kit / Public Benefit and Privacy Panel",
+        "to": "In 2015 an Information Sharing Tool-kit for Scotland was launched and a Public Benefit and Privacy Panel for NHS Scotland created. These provide guidance for IJBs requiring to create information sharing agreements, and a route for IG issues not answered by the guidance to be resolved. (SG e-health)",
+        "label": "Spotlight"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "e-health leads network (SG e-health)",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "Health and Care portal technology (SG e-health)",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "My Account (SG e-health)",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "Mygov.scot (Digital Directorate)",
+        "label": "supported by"
+      },
+      {
+        "from": "IT connectivity development",
+        "to": "Web Landscape Review (SG E-health)",
+        "label": "supported by"
+      },
+      {
+        "from": "Reduce_adverse_events incl mortality",
+        "to": "reliable evidence based care",
+        "label": "driven by"
+      },
+      {
+        "from": "Reduce_adverse_events incl mortality",
+        "to": "Designed with patients",
+        "label": "driven by"
+      },
+      {
+        "from": "Reduce_adverse_events incl mortality",
+        "to": "Supportive infrastructure",
+        "label": "driven by"
+      },
+      {
+        "from": "Reduce_adverse_events incl mortality",
+        "to": "effective collaborative innovative team",
+        "label": "driven by"
+      },
+      {
+        "from": "reliable evidence based care",
+        "to": "Ventilator complications reduced",
+        "label": "driven by"
+      },
+      {
+        "from": "reliable evidence based care",
+        "to": "Central_venous_catheter complications reduced",
+        "label": "driven by"
+      },
+      {
+        "from": "reliable evidence based care",
+        "to": "Glucose control optimised",
+        "label": "driven by"
+      },
+      {
+        "from": "reliable evidence based care",
+        "to": "HAIs prevented",
+        "label": "driven by"
+      },
+      {
+        "from": "reliable evidence based care",
+        "to": "Cross contamination prevented",
+        "label": "driven by"
+      },
+      {
+        "from": "reliable evidence based care",
+        "to": "Proper sepsis recognition+treatment",
+        "label": "driven by"
+      },
+      {
+        "from": "Designed with patients",
+        "to": "Open communications among team",
+        "label": "driven by"
+      },
+      {
+        "from": "Designed with patients",
+        "to": "Open communications with family",
+        "label": "driven by"
+      },
+      {
+        "from": "Designed with patients",
+        "to": "Clarify care wishes",
+        "label": "driven by"
+      },
+      {
+        "from": "Designed with patients",
+        "to": "Clarify End_of_Life planning",
+        "label": "driven by"
+      },
+      {
+        "from": "Supportive infrastructure",
+        "to": "Leadership supports consistent care",
+        "label": "driven by"
+      },
+      {
+        "from": "Supportive infrastructure",
+        "to": "Leadership supportives evidence based care",
+        "label": "driven by"
+      },
+      {
+        "from": "Supportive infrastructure",
+        "to": "Improve the ICU throughput",
+        "label": "driven by"
+      },
+      {
+        "from": "effective collaborative innovative team",
+        "to": "Staff support improvement ethos",
+        "label": "driven by"
+      },
+      {
+        "from": "effective collaborative innovative team",
+        "to": "Reliable care planning",
+        "label": "driven by"
+      },
+      {
+        "from": "effective collaborative innovative team",
+        "to": "Reliable communication",
+        "label": "driven by"
+      },
+      {
+        "from": "effective collaborative innovative team",
+        "to": "Reliable MDT collaboration",
+        "label": "driven by"
+      },
+      {
+        "from": "Thing a",
+        "to": "Thing b",
+        "label": "drives"
+      },
+      {
+        "from": "Thing b",
+        "to": "Thing c",
+        "label": "drives"
+      },
+      {
+        "from": "Thing c",
+        "to": "Thing d",
+        "label": "drives"
+      },
+      {
+        "from": "Thing d",
+        "to": "Thing e1",
+        "label": "drives"
+      },
+      {
+        "from": "Thing d",
+        "to": "Thing e2",
+        "label": "drives"
+      },
+      {
+        "from": "Thing d",
+        "to": "Thing e3",
+        "label": "drives"
+      },
+      {
+        "from": "Thing e1",
+        "to": "Thing F",
+        "label": "drives"
+      },
+      {
+        "from": "Thing e2",
+        "to": "Thing F",
+        "label": "drives"
+      },
+      {
+        "from": "Thing e3",
+        "to": "Thing F",
+        "label": "drives"
+      },
+      {
+        "from": "Thing F",
+        "to": "Thing G",
+        "label": "drives"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "quantitative and qualitative data",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "information sharing agreements",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "IT connectivity development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "effective data use",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "outputs - evidence informed",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "knowledge exchange",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "research+monitoring+evaluation processes",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "national workforce contracts",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "pre-registration training",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "staff health+wellbeing facilitation",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "training development programmes+resources",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "national workforce data",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "local level workforce planning",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "professional regulation",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "multidisciplinary working models",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "third sector contribution development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "knowledge+skills+confidence",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "national procurement driving efficiencies",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "counter-fraud support",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "consult citizens",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "consult on service provision design",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "community engagement",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "National Performance measures",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "existing technology infrastructure",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "facilities management support",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "shared services benefit evaluation",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "legal services",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "knowledge+skills+expertise of partners",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "knowledge+skills development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "self-evaluation",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "joint strategic commissioning skills development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "key care delivery improvement priorities",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "QI training+development programmes",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "long-term plans+approaches development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "new ways of working",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "leadership development programmes",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "effective partnership working",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "coaching support provision",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "national networks facilitation",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "guidance+support provision",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "strategic leadership development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "web+digital service development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "care applications+services dissemination",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "technological care solution development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "good practice+innovation development",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "procurement process implementation",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "provision of Data Warehouse Service",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Data Visualisation via Tableau",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Provision of clinical dashboard capability",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Hosting and management of SWAN",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Scottish Health on the Web SHOW",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "SCI Store",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Ensemble",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Edison - patient discharge information system",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Video Conferencing capability and mangement supporting telehealth and telecare NSS",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "scrutiny+assurance+audit - external",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "performance frameworks",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "agreed national indicators",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "agreed priority issues",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "reviewing local impact +feedback",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "service user collaboratoin",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "good practice+innovations review",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "health+social care workers",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Source",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Local Intelligence Support Team LIST",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Scottish Public Health Observatory ScotPHO",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Development of indicators to support outcomes framework ISD SG ASD SG HSCI",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Scottish Primary Care Information Resource SPIRE",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Developing use of process mining software PROM",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "NSS IT services",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Web Landscape Review E-health",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "quarterly themed meetings for members involving ASD and ISD HSCBN",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "development of a common, core dataset",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "ALISS integration pilot work",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Threading the Needle work",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "3rd sector mapping activity undertaken by TSIs",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "TSI support to local 3rd sector organisations",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Work being undertaken by national outcomes group under Community Planning",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Evidence Databases",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Supporting development of local agreements",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Information Sharing Tool-kit and Public Benefit and Privacy Panel",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "e-health leads network SG eHealth",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Health and Care portal technology SG eHealth",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "My Account SG eHealth",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Mygov.scot Digital Directorate",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Web Landscape Review SG eHealth",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Information Sharing Tool-kit / Public Benefit and Privacy Panel",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "e-health leads network (SG e-health)",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Health and Care portal technology (SG e-health)",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "My Account (SG e-health)",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Mygov.scot (Digital Directorate)",
+        "label": "has workstream"
+      },
+      {
+        "from": "HIS Healthcare Improvement Scotland",
+        "to": "Web Landscape Review (SG E-health)",
+        "label": "has workstream"
+      },
+      {
+        "from": "Pedro",
+        "to": "Peter",
+        "label": "(has) Strong similarity (to)"
+      },
+      {
+        "from": "Independent hospices",
+        "to": "training development programmes+resources",
+        "label": "Is (a) key part (of)"
+      },
+      {
+        "from": "Bridget Johnston",
+        "to": "Scott Murray",
+        "label": "Is not"
+      },
+      {
+        "from": "House of Care",
+        "to": "this is the house of care model",
+        "label": "Spotlight"
+      },
+      {
+        "from": "House of Care",
+        "to": "this is the house of care model",
+        "label": "Spotlight"
+      },
+      {
+        "from": "House of Care",
+        "to": "Green",
+        "label": "Has RAG Status"
+      },
+      {
+        "from": "Care Plans",
+        "to": "House of Care",
+        "label": "Is (a) key part (of)"
+      }
+    ]
+  }
+}
